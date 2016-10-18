@@ -1,0 +1,1001 @@
+date_received,product,sub_product,issue,sub_issue,consumer_complaint_narrative,company_public_response,company,state,zipcode,tags,consumer_consent_provided,submitted_via,date_sent_to_company,company_response_to_consumer,timely_response,consumer_disputed?,complaint_id
+8/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,CA,95993,,,Referral,9/3/2013,Closed with explanation,Yes,Yes,511074
+8/30/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,CA,91104,,,Referral,9/3/2013,Closed with explanation,Yes,Yes,511080
+8/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Wells Fargo & Company,NY,11764,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,510473
+8/30/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",MD,21402,,,Email,8/30/2013,Closed with explanation,Yes,Yes,510326
+8/30/2013,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,Resurgent Capital Services L.P.,GA,30106,,,Web,8/30/2013,Closed with explanation,Yes,Yes,511067
+8/30/2013,Credit card,,Application processing delay,,,,Capital One,NY,12206,,,Phone,9/3/2013,Closed with explanation,Yes,Yes,510098
+8/30/2013,Credit card,,Credit line increase/decrease,,,,Wells Fargo & Company,AZ,85730,,,Postal mail,9/5/2013,Closed with explanation,Yes,No,511062
+8/30/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,IL,60660,,,Referral,9/4/2013,Closed with explanation,Yes,No,511116
+8/30/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,GA,30016,,,Referral,9/4/2013,Closed with explanation,Yes,No,511091
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,"SunTrust Banks, Inc.",CA,94551,,,Web,9/18/2013,Closed with explanation,Yes,Yes,530602
+8/30/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Convergent Resources, Inc.",NC,27545,,,Web,8/30/2013,Closed with explanation,Yes,No,509988
+8/30/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Capital One,NC,27614,,,Fax,9/3/2013,Closed with explanation,Yes,Yes,511084
+8/30/2013,Mortgage,Conventional adjustable mortgage (ARM),Credit decision / Underwriting,,,,Bank of America,TX,75023,,,Web,9/3/2013,Closed with explanation,Yes,No,511090
+8/30/2013,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,,Wells Fargo & Company,TX,78244,,,Fax,9/3/2013,Closed with explanation,Yes,Yes,510129
+9/10/2013,Debt collection,Credit card,Communication tactics,Called outside of 8am-9pm,,,Bank of America,GA,30132,,,Web,9/14/2013,Closed with explanation,Yes,No,521353
+9/17/2013,Credit card,,Late fee,,,,"PayPal Holdings, Inc.",DC,20003,,,Web,9/17/2013,Closed with monetary relief,Yes,No,531853
+9/17/2013,Debt collection,Credit card,Communication tactics,Used obscene/profane/abusive language,,,Van Ru Credit Corporation,KY,40508,,,Phone,9/18/2013,Closed with non-monetary relief,Yes,No,530622
+9/24/2013,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,"TransUnion Intermediate Holdings, Inc.",IL,62060,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,540835
+9/24/2013,Debt collection,Non-federal student loan,Improper contact or sharing of info,Talked to a third party about my debt,,,Allied Interstate LLC,GA,30039,,,Phone,9/25/2013,Closed with non-monetary relief,Yes,No,540355
+9/17/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,RI,2921,,,Postal mail,10/10/2013,Closed with explanation,Yes,No,531346
+9/17/2013,Credit card,,Billing disputes,,,,Bank of America,TN,37874,Older American,,Phone,11/4/2013,Closed with explanation,Yes,Yes,530624
+9/24/2013,Debt collection,Non-federal student loan,Improper contact or sharing of info,Talked to a third party about my debt,,,"Navient Solutions, Inc.",GA,30039,,,Phone,9/25/2013,Closed with monetary relief,Yes,No,540356
+9/24/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,"Carrington Mortgage Holdings, LLC.",AR,72113,,,Web,9/25/2013,Closed with explanation,Yes,No,540357
+9/10/2013,Debt collection,Credit card,Communication tactics,Called outside of 8am-9pm,,,Wells Fargo & Company,GA,30132,,,Web,9/14/2013,Closed with explanation,Yes,No,521354
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,HSBC North America Holdings Inc.,IL,62034,,,Web,9/11/2013,Closed with explanation,Yes,No,521356
+9/24/2013,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",,,,"Enova International, Inc.",AL,35473,,,Web,9/26/2013,Closed with explanation,Yes,No,540359
+9/24/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Wells Fargo & Company,NC,28753,,,Web,9/25/2013,Closed with monetary relief,Yes,No,540360
+9/10/2013,Credit card,,Rewards,,,,Bank of America,NJ,8512,,,Web,9/19/2013,Closed with explanation,Yes,No,521360
+9/17/2013,Debt collection,Mortgage,Communication tactics,Frequent or repeated calls,,,"SunTrust Banks, Inc.",VA,22151,,,Web,9/17/2013,Closed with explanation,Yes,No,531855
+8/30/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,FL,34684,Older American,,Phone,9/4/2013,Closed with explanation,Yes,Yes,510410
+9/24/2013,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,IL,62060,,,Web,9/24/2013,Closed with explanation,Yes,Yes,540836
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,TX,78704,,,Web,9/11/2013,Closed with explanation,Yes,No,521364
+9/10/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,MN,55122,,,Web,9/11/2013,Closed with explanation,Yes,Yes,521365
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,"Hunter Warfield, Inc.",AZ,86004,Servicemember,,Web,9/11/2013,Closed with explanation,Yes,Yes,520858
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,"Citizens Financial Group, Inc.",NJ,8865,,,Web,9/10/2013,Closed with explanation,Yes,No,521368
+9/24/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,AK,99623,,,Web,9/25/2013,Closed with explanation,Yes,No,540368
+9/17/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,FirstMerit Bank,OH,43016,,,Web,9/18/2013,Closed with explanation,Yes,No,530634
+9/10/2013,Mortgage,Other mortgage,Settlement process and costs,,,,American Pacific Mortgage Corporation,OR,97479,,,Web,9/10/2013,Closed with explanation,Yes,No,521371
+9/10/2013,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt is not mine,,,"Expert Global Solutions, Inc.",AZ,85297,,,Web,9/14/2013,Closed with explanation,Yes,No,521372
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,U.S. Bancorp,MO,63138,,,Web,9/10/2013,Closed with explanation,Yes,No,521374
+8/30/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"Fidelity National Information Services, Inc. (FNIS)",CA,90305,Older American,,Phone,9/3/2013,Closed with explanation,Yes,No,511066
+8/30/2013,Debt collection,I do not know,Taking/threatening an illegal action,Threatened to sue on too old debt,,,Wells Fargo & Company,CA,94530,,,Web,8/30/2013,Closed with explanation,Yes,No,511115
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,"Afni, Inc.",FL,33334,,,Web,9/24/2013,Closed with explanation,Yes,No,540371
+9/24/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,Capital One,CA,91605,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,540372
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,"OneMain Financial Holdings, LLC",AL,36874,,,Referral,10/8/2013,Closed with explanation,Yes,No,530639
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,"SunTrust Banks, Inc.",CA,94509,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,530642
+9/17/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,AZ,85733,,,Web,9/17/2013,Closed with explanation,Yes,No,531850
+8/30/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,Security Finance,LA,70503,,,Web,8/30/2013,Closed with explanation,Yes,No,511120
+9/24/2013,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Experian,NC,27597,,,Web,9/24/2013,Closed with explanation,Yes,Yes,540383
+9/17/2013,Credit card,,Customer service / Customer relations,,,,U.S. Bancorp,OH,45387,,,Web,9/17/2013,Closed with explanation,Yes,No,531857
+9/10/2013,Credit card,,Forbearance / Workout plans,,,,Capital One,OH,43065,,,Web,9/14/2013,Closed with monetary relief,Yes,No,521375
+9/10/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,"Asset Recovery Group, Inc.",OR,97222,Older American,,Web,9/10/2013,Closed with explanation,Yes,No,521376
+9/10/2013,Credit card,,Closing/Cancelling account,,,,Wells Fargo & Company,MN,55949,,,Web,9/10/2013,Closed with explanation,Yes,No,521378
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Convergent Resources, Inc.",CA,94102,,,Web,9/14/2013,Closed with explanation,Yes,No,521379
+9/24/2013,Debt collection,Non-federal student loan,Communication tactics,Frequent or repeated calls,,,Allied Interstate LLC,SC,29928,Older American,,Postal mail,9/25/2013,Closed with non-monetary relief,Yes,No,541189
+9/24/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,IL,60628,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,540390
+9/24/2013,Debt collection,Non-federal student loan,Communication tactics,Frequent or repeated calls,,,"Navient Solutions, Inc.",SC,29928,Older American,,Postal mail,9/25/2013,Closed with explanation,Yes,No,541190
+9/10/2013,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Equifax,VA,22195,,,Web,9/14/2013,Closed with explanation,Yes,No,521381
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,ERC,CA,94102,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521380
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,MN,55024,,,Web,9/10/2013,Closed with explanation,Yes,No,521383
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,NC,28205,Servicemember,,Web,9/10/2013,Closed with explanation,Yes,No,521318
+8/30/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Wells Fargo & Company,OK,74063,,,Phone,9/3/2013,Closed with explanation,Yes,No,511133
+8/30/2013,Mortgage,Other mortgage,Credit decision / Underwriting,,,,New York Community Bank,MD,20912,,,Postal mail,9/5/2013,Closed with explanation,Yes,No,511136
+9/10/2013,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,,,Commercial Recovery Systems,AZ,85037,,,Web,9/14/2013,Closed,Yes,No,521384
+9/10/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,WA,98512,,,Web,9/11/2013,Closed with non-monetary relief,Yes,No,520885
+9/10/2013,Credit card,,Billing disputes,,,,Citibank,FL,32259,,,Web,9/14/2013,Closed with explanation,Yes,No,520825
+9/10/2013,Credit card,,Rewards,,,,JPMorgan Chase & Co.,PA,19406,,,Web,9/14/2013,Closed with explanation,Yes,No,521385
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,GA,30701,,,Web,9/18/2013,Closed with explanation,Yes,No,530654
+8/30/2013,Mortgage,FHA mortgage,Settlement process and costs,,,,Prospect Mortgage,CA,92656,Older American,,Web,9/4/2013,Closed with explanation,Yes,Yes,511140
+9/24/2013,Debt collection,Credit card,Communication tactics,Threatened to take legal action,,,Capital One,CA,91773,,,Web,9/26/2013,Closed with explanation,Yes,No,540399
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,NJ,8742,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521386
+9/10/2013,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,,,Ditech Financial LLC,MN,55101,Older American,,Web,9/10/2013,Closed with explanation,Yes,Yes,520945
+9/10/2013,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,"Trident Asset Management, L.L.C.",MO,63701,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,521390
+9/10/2013,Credit card,,APR or interest rate,,,,Amex,MI,48178,Servicemember,,Web,9/10/2013,Closed with monetary relief,Yes,Yes,521391
+9/10/2013,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,CA,92078,,,Web,9/10/2013,Closed with explanation,Yes,Yes,520944
+9/10/2013,Credit reporting,,Incorrect information on credit report,Personal information,,,Experian,NJ,8742,,,Web,9/11/2013,Closed with non-monetary relief,Yes,No,521387
+9/24/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Citibank,CA,92223,Older American,,Web,9/26/2013,Closed with non-monetary relief,Yes,Yes,540374
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,VA,22485,,,Web,9/18/2013,Closed with explanation,Yes,No,531705
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Bank of America,IL,60561,Older American,,Web,9/18/2013,Closed with explanation,Yes,No,530663
+9/17/2013,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,,,"Schachter Portnoy, L.L.C.",NJ,7086,,,Web,9/18/2013,Closed with explanation,Yes,No,530664
+9/10/2013,Credit reporting,,Credit monitoring or identity protection,Problem with fraud alerts,,,Equifax,MD,21061,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521392
+9/10/2013,Debt collection,Medical,Communication tactics,Frequent or repeated calls,,,Tormey Bewley Corporation,CO,80126,,,Web,10/10/2013,Closed with non-monetary relief,Yes,No,521394
+9/10/2013,Mortgage,Home equity loan or line of credit,"Application, originator, mortgage broker",,,,Bank of America,CA,90605,,,Web,9/10/2013,Closed with explanation,Yes,No,521395
+8/30/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,JPMorgan Chase & Co.,DC,20012,,,Web,9/4/2013,Closed with explanation,Yes,No,511146
+8/30/2013,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,,,"Navient Solutions, Inc.",KY,40207,,,Web,9/4/2013,Closed with explanation,Yes,Yes,511150
+8/30/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,"North American Asset Services, LLC",CA,92002,,,Phone,9/3/2013,Closed with explanation,Yes,No,511071
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,KY,40059,,,Web,9/25/2013,Closed with explanation,Yes,Yes,540406
+9/24/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,"Expert Global Solutions, Inc.",TX,78240,,,Web,9/24/2013,Closed with explanation,Yes,No,540407
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Flagstar Bank,KS,66846,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,530667
+9/17/2013,Mortgage,VA mortgage,"Loan servicing, payments, escrow account",,,,M&T Bank Corporation,VA,23453,,,Web,9/18/2013,Closed with explanation,Yes,No,530671
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Loan Care,NY,11235,,,Web,9/10/2013,Closed with explanation,Yes,No,521396
+9/10/2013,Credit card,,Balance transfer,,,,JPMorgan Chase & Co.,NY,11967,,,Web,9/14/2013,Closed with explanation,Yes,No,521310
+9/10/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,Commercial Recovery Systems,TX,76155,,,Web,9/30/2013,Closed,No,No,521397
+9/10/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",WA,99208,,,Web,9/10/2013,Closed with non-monetary relief,Yes,No,521400
+9/10/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,CA,94108,,,Web,9/10/2013,Closed with non-monetary relief,Yes,No,521401
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,DC,20018,,,Web,9/18/2013,Closed with explanation,Yes,No,530677
+9/10/2013,Bank account or service,Savings account,Deposits and withdrawals,,,,Citibank,CA,90651,,,Web,9/10/2013,Closed with monetary relief,Yes,No,521404
+9/10/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,,Experian,FL,32811,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521231
+9/10/2013,Debt collection,Federal student loan,Improper contact or sharing of info,Contacted employer after asked not to,,,ConServe,CA,91403,,,Web,9/14/2013,Closed with explanation,Yes,No,521406
+9/10/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,CA,94605,,,Web,9/10/2013,Closed with explanation,Yes,No,521407
+9/10/2013,Money transfers,International money transfer,Wrong amount charged or received,,,,Capital One,NY,11206,,,Web,9/10/2013,Closed with monetary relief,Yes,No,521409
+9/10/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,91324,,,Web,9/10/2013,Closed with explanation,Yes,No,521410
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Astoria Bank,CA,92009,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,530678
+9/24/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,NJ,7307,,,Fax,9/25/2013,Closed with explanation,Yes,No,540608
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,MA,2151,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,531743
+9/17/2013,Credit card,,Rewards,,,,Citibank,NJ,7078,,,Phone,9/18/2013,Closed with explanation,Yes,No,530684
+9/24/2013,Debt collection,Non-federal student loan,False statements or representation,Attempted to collect wrong amount,,,Loan To Learn,OR,97136,,,Web,9/24/2013,Closed with explanation,Yes,No,540425
+8/30/2013,Mortgage,Other mortgage,Credit decision / Underwriting,,,,U.S. Bancorp,MN,55431,,,Postal mail,9/3/2013,Closed with explanation,Yes,No,511154
+8/30/2013,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,,,"Cavalry Investments, LLC",IL,60139,,,Web,8/30/2013,Closed with explanation,Yes,No,511155
+9/10/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Toyota Motor Credit Corporation,NH,3079,,,Web,9/10/2013,Closed with non-monetary relief,Yes,No,521411
+9/10/2013,Debt collection,Mortgage,Communication tactics,Threatened to take legal action,,,HSBC North America Holdings Inc.,FL,75075,,,Web,9/10/2013,Closed with explanation,Yes,No,521412
+9/10/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Bank of America,CA,93436,,,Web,9/10/2013,Closed with explanation,Yes,No,521415
+9/10/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,Grant & Weber,NV,89014,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,521416
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,Stellar Recovery Inc.,TX,79772,,,Phone,10/16/2013,Closed with explanation,Yes,Yes,530686
+9/17/2013,Debt collection,Credit card,Communication tactics,Threatened to take legal action,,,Citibank,NH,3062,Servicemember,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,530688
+9/10/2013,Bank account or service,Savings account,"Account opening, closing, or management",,,,"Fidelity National Information Services, Inc. (FNIS)",KY,40324,,,Web,9/10/2013,Closed with explanation,Yes,No,521417
+9/10/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Loan Care,DC,20019,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521418
+8/30/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,CA,90036,,,Web,9/4/2013,Closed with explanation,Yes,Yes,510043
+9/24/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"TransUnion Intermediate Holdings, Inc.",WV,24910,,,Postal mail,10/7/2013,Closed with explanation,Yes,No,541177
+9/24/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,"Citizens Financial Group, Inc.",NJ,7009,,,Phone,9/25/2013,Closed with explanation,Yes,No,540434
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,TN,37040,,,Postal mail,9/10/2013,Closed with explanation,Yes,Yes,520930
+9/10/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,OH,44147,,,Web,9/10/2013,Closed with non-monetary relief,Yes,No,521419
+9/24/2013,Credit card,,Customer service / Customer relations,,,,Amex,MN,55342,,,Web,9/25/2013,Closed with explanation,Yes,No,540439
+9/24/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,Penn Credit Corporation,NY,11214,,,Phone,9/25/2013,Closed with explanation,Yes,Yes,541266
+8/30/2013,Credit card,,Credit line increase/decrease,,,,Discover,MD,20853,Older American,,Web,8/30/2013,Closed with explanation,Yes,No,511168
+8/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Fifth Third Financial Corporation,NC,28075,,,Postal mail,9/4/2013,Closed with monetary relief,Yes,No,511169
+9/17/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Banco Popular de Puerto Rico,PR,639,,,Postal mail,10/8/2013,Closed with explanation,Yes,No,530694
+9/17/2013,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,Guaranteed Rate,CA,90066,,,Web,9/18/2013,Closed with explanation,Yes,No,530695
+9/17/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Experian,NC,28269,,,Web,9/18/2013,Closed with explanation,Yes,No,531326
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,WA,98110,,,Referral,9/10/2013,Closed with explanation,Yes,No,521455
+9/24/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,CA,90605,,,Postal mail,10/4/2013,Closed with non-monetary relief,Yes,No,540901
+9/17/2013,Credit card,,Credit line increase/decrease,,,,BBVA Compass,TX,79606,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,530653
+9/17/2013,Credit card,,Late fee,,,,Citibank,NY,10027,Older American,,Phone,9/18/2013,Closed with monetary relief,Yes,No,530699
+9/10/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Loan Care,DE,19802,,,Web,9/10/2013,Closed with explanation,Yes,No,521426
+9/24/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,TD Bank US Holding Company,MA,2119,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,540452
+9/24/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,CA,90605,,,Postal mail,10/4/2013,Closed with non-monetary relief,Yes,No,540902
+8/30/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,"TransUnion Intermediate Holdings, Inc.",NY,12701,Older American,,Web,9/4/2013,Closed with explanation,Yes,Yes,509989
+8/30/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,Citibank,CA,92220,,,Postal mail,9/4/2013,Closed with explanation,Yes,No,511173
+9/10/2013,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,,,Encore Capital Group,OH,45227,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,521431
+9/10/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,IN,46123,,,Web,9/10/2013,Closed with explanation,Yes,No,521432
+9/24/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Wells Fargo & Company,CA,90265,,,Web,9/25/2013,Closed with explanation,Yes,No,540453
+9/24/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,Capital One,IL,60628,,,Web,9/25/2013,Closed with explanation,Yes,No,540391
+9/24/2013,Credit card,,Closing/Cancelling account,,,,JPMorgan Chase & Co.,VA,22302,Servicemember,,Web,9/24/2013,Closed with monetary relief,Yes,Yes,540455
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,FL,33619,,,Web,9/18/2013,Closed with explanation,Yes,No,530701
+9/17/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"TransUnion Intermediate Holdings, Inc.",CA,95377,,,Web,9/17/2013,Closed with non-monetary relief,Yes,No,530107
+9/10/2013,Credit reporting,,Incorrect information on credit report,Personal information,,,Experian,FL,33408,Older American,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521434
+9/24/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"TransUnion Intermediate Holdings, Inc.",AR,72824,Servicemember,,Web,9/24/2013,Closed with explanation,Yes,No,540833
+9/24/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,WV,24910,,,Postal mail,10/7/2013,Closed with explanation,Yes,No,541178
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,CA,93022,,,Web,9/25/2013,Closed with explanation,Yes,No,540462
+9/24/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Bank of America,NC,28213,,,Referral,9/25/2013,Closed with explanation,Yes,No,540551
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,FL,34120,Older American,,Web,9/18/2013,Closed with explanation,Yes,No,530709
+8/30/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Ocwen,AZ,85249,,,Web,9/4/2013,Closed with explanation,Yes,Yes,511182
+8/30/2013,Credit card,,Billing disputes,,,,KeyBank NA,NY,14618,,,Web,10/4/2013,Closed with monetary relief,Yes,No,511187
+9/24/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Residential Credit Solutions,NV,89128,,,Referral,11/8/2013,Closed with explanation,Yes,No,540559
+9/24/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",,,,Wells Fargo & Company,UT,84041,,,Web,9/25/2013,Closed with explanation,Yes,No,540467
+9/10/2013,Consumer Loan,Personal line of credit,Account terms and changes,,,,HSBC North America Holdings Inc.,GA,30106,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521443
+9/24/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,TCF National Bank,MN,55416,,,Referral,9/25/2013,Closed with explanation,Yes,No,540541
+9/17/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"Phillips & Cohen Associates, Ltd.",OH,43220,Older American,,Phone,9/18/2013,Closed with explanation,Yes,No,530710
+9/17/2013,Credit card,,Billing statement,,,,Bank of America,LA,71467,Older American,,Web,9/17/2013,Closed with explanation,Yes,No,531858
+9/24/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Fifth Third Financial Corporation,OH,43607,,,Referral,9/25/2013,Closed with explanation,Yes,No,540595
+8/30/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,HSBC North America Holdings Inc.,CO,80207,Older American,,Web,9/4/2013,Closed with explanation,Yes,No,511192
+8/30/2013,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,,Bank of America,KY,41006,,,Postal mail,9/4/2013,Closed with monetary relief,Yes,No,511193
+9/24/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,FL,33558,,,Referral,9/25/2013,Closed with explanation,Yes,No,540646
+9/24/2013,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,,,"HOVG, LLC",OR,97060,,,Phone,9/26/2013,Closed with explanation,Yes,Yes,540475
+9/17/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,Fifth Third Financial Corporation,CA,92626,,,Web,9/18/2013,Closed with explanation,Yes,No,530723
+8/30/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Wells Fargo & Company,NC,28129,Older American,,Web,9/4/2013,Closed with explanation,Yes,No,511196
+8/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,TN,38464,Older American,,Postal mail,9/4/2013,Closed with non-monetary relief,Yes,No,510069
+9/24/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase & Co.,OR,97124,,,Referral,9/25/2013,Closed with explanation,Yes,Yes,540641
+9/24/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,M&T Bank Corporation,ME,4043,,,Referral,9/25/2013,Closed with explanation,Yes,Yes,540916
+9/10/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,RMP Group Inc.,IN,46060,,,Web,9/14/2013,Closed with explanation,Yes,Yes,521464
+9/10/2013,Credit card,,Closing/Cancelling account,,,,Capital One,NY,10595,Servicemember,,Web,9/14/2013,Closed with explanation,Yes,Yes,521465
+9/10/2013,Debt collection,Non-federal student loan,Communication tactics,Frequent or repeated calls,,,Allied Interstate LLC,LA,70128,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521466
+8/30/2013,Debt collection,Credit card,Taking/threatening an illegal action,Sued w/o proper notification of suit,,,Forster & Garbus LLP,FL,34744,,,Phone,9/4/2013,Closed with non-monetary relief,Yes,No,511166
+9/24/2013,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,,Citibank,MI,48214,,,Referral,9/25/2013,Closed with explanation,Yes,No,540482
+9/10/2013,Credit card,,Billing disputes,,,,Synchrony Financial,FL,34433,,,Referral,9/10/2013,Closed with monetary relief,Yes,No,521468
+9/10/2013,Debt collection,Non-federal student loan,Disclosure verification of debt,Not given enough info to verify debt,,,"MRS BPO, L.L.C.",FL,33903,,,Fax,9/10/2013,Closed with non-monetary relief,Yes,Yes,521469
+9/17/2013,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Experian,SC,29601,,,Web,9/17/2013,Closed with explanation,Yes,No,533728
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Convergent Resources, Inc.",PA,19086,,,Phone,9/25/2013,Closed with explanation,Yes,No,540446
+9/10/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Wells Fargo & Company,FL,33710,Older American,,Web,9/10/2013,Closed with explanation,Yes,Yes,521212
+9/24/2013,Credit card,,Billing disputes,,,,Bank of America,CA,92251,,,Phone,9/25/2013,Closed with non-monetary relief,Yes,No,540488
+9/10/2013,Credit reporting,,Incorrect information on credit report,Account status,,,HSBC North America Holdings Inc.,TN,37771,,,Web,9/10/2013,Closed with explanation,No,No,521475
+9/24/2013,Credit card,,Billing disputes,,,,Bank of America,PR,927,,,Web,9/24/2013,Closed with non-monetary relief,Yes,Yes,540635
+9/10/2013,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",,,,Bank of America,AR,72076,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,520956
+9/10/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,PA,18634,Servicemember,,Web,9/10/2013,Closed with explanation,Yes,No,521481
+9/24/2013,Money transfers,International money transfer,Fraud or scam,,,,Citibank,CA,94805,,,Web,9/25/2013,Closed with explanation,Yes,Yes,540491
+9/17/2013,Credit card,,Credit card protection / Debt protection,,,,Capital One,OH,44060,,,Web,9/17/2013,Closed with explanation,Yes,No,531860
+9/17/2013,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,,"Lloyd & McDaniel, PLC",OH,45714,,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,530736
+9/17/2013,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,,Bank of America,OH,45714,,,Web,9/17/2013,Closed with explanation,Yes,No,531861
+8/30/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Regions Financial Corporation,IN,46227,,,Web,9/3/2013,Closed,Yes,No,511588
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,PA,19143,,,Phone,9/10/2013,Closed with monetary relief,Yes,No,521490
+9/10/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,HSBC North America Holdings Inc.,TX,78573,,,Postal mail,10/16/2013,Closed with explanation,Yes,No,520894
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,LA,70058,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,530738
+9/17/2013,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,Encore Capital Group,FL,32935,,,Phone,9/18/2013,Closed with explanation,Yes,No,530644
+9/24/2013,Credit reporting,,Incorrect information on credit report,Public record,,,HSBC North America Holdings Inc.,NY,13031,,,Web,9/25/2013,Closed with explanation,Yes,No,540502
+9/24/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,MO,63601,,,Web,9/25/2013,Closed with explanation,Yes,No,539441
+8/30/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,IL,60614,Older American,,Web,8/30/2013,Closed with non-monetary relief,Yes,No,511214
+8/30/2013,Mortgage,FHA mortgage,"Application, originator, mortgage broker",,,,Nationstar Mortgage,OR,97322,,,Web,9/3/2013,Closed with explanation,Yes,No,511219
+9/10/2013,Credit card,,Credit line increase/decrease,,,,Amex,TX,75240,,,Web,9/20/2013,Closed with explanation,Yes,No,521492
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,FL,32825,,,Referral,9/18/2013,Closed with explanation,Yes,No,530745
+9/17/2013,Credit card,,Closing/Cancelling account,,,,BBVA Compass,TX,75228,,,Web,9/17/2013,Closed with explanation,Yes,No,531862
+9/24/2013,Mortgage,VA mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,TX,78616,,,Web,9/25/2013,Closed with explanation,Yes,No,540512
+9/24/2013,Credit reporting,,Incorrect information on credit report,Personal information,,,Experian,NJ,7003,,,Web,9/24/2013,Closed with non-monetary relief,Yes,Yes,540513
+8/30/2013,Credit card,,Billing disputes,,,,Discover,FL,32250,,,Fax,9/4/2013,Closed with monetary relief,Yes,No,510131
+9/24/2013,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt is not mine,,,"Navient Solutions, Inc.",AR,72032,Servicemember,,Web,9/24/2013,Closed with explanation,Yes,Yes,540515
+9/24/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,JPMorgan Chase & Co.,CA,92119,,,Web,10/9/2013,Closed with explanation,Yes,No,540517
+9/24/2013,Credit card,,Credit determination,,,,Citibank,IL,60620,,,Postal mail,9/25/2013,Closed with explanation,Yes,No,540497
+9/17/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,Encore Capital Group,NY,10028,,,Web,9/17/2013,Closed with non-monetary relief,Yes,No,531863
+9/17/2013,Consumer Loan,Vehicle loan,Taking out the loan or lease,,,,Santander Consumer USA Holdings Inc,FL,33844,Older American,,Web,9/18/2013,Closed with explanation,Yes,No,530748
+9/17/2013,Mortgage,FHA mortgage,"Application, originator, mortgage broker",,,,Wells Fargo & Company,MA,2740,,,Web,9/18/2013,Closed with explanation,Yes,Yes,530751
+9/10/2013,Credit card,,Other,,,,Capital One,FL,34743,,,Postal mail,9/13/2013,Closed with monetary relief,Yes,No,521503
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,PA,19047,,,Phone,9/25/2013,Closed with explanation,Yes,No,540520
+9/24/2013,Credit reporting,,Incorrect information on credit report,Public record,,,Experian,NC,28269,,,Postal mail,10/9/2013,Closed with non-monetary relief,Yes,No,539388
+9/17/2013,Credit card,,Other,,,,JPMorgan Chase & Co.,TX,77437,Older American,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,530753
+9/10/2013,Credit card,,Other,,,,Bank of America,MI,48178,,,Postal mail,9/12/2013,Closed with explanation,Yes,No,521511
+8/30/2013,Consumer Loan,Personal line of credit,Account terms and changes,,,,World Acceptance Corporation,LA,71211,Older American,,Web,10/22/2013,Closed with explanation,Yes,No,509944
+8/30/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,U.S. Bancorp,NE,75571,"Older American, Servicemember",,Fax,9/3/2013,Closed with explanation,Yes,Yes,511236
+8/30/2013,Credit card,,Closing/Cancelling account,,,,HSBC North America Holdings Inc.,AZ,85203,Older American,,Phone,9/4/2013,Closed with explanation,Yes,No,511237
+9/24/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,Fifth Third Financial Corporation,NC,28211,,,Web,9/26/2013,Closed with monetary relief,Yes,Yes,540526
+9/10/2013,Mortgage,Other mortgage,Other,,,,Ocwen,LA,71024,,,Postal mail,9/10/2013,Closed,Yes,Yes,521519
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,JPMorgan Chase & Co.,GA,30144,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521522
+9/24/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,NJ,8010,,,Postal mail,9/25/2013,Closed with explanation,Yes,No,540486
+9/24/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,Encore Capital Group,CA,93215,Older American,,Phone,10/3/2013,Closed with non-monetary relief,Yes,No,540479
+9/24/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,Barclays PLC,CA,93215,Older American,,Phone,9/25/2013,Closed with explanation,Yes,No,540480
+9/24/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,CA,91352,,,Web,9/25/2013,Closed with explanation,Yes,No,540532
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,Encore Capital Group,CA,92108,,,Fax,9/25/2013,Closed with non-monetary relief,Yes,No,540533
+9/10/2013,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,,,"Navient Solutions, Inc.",NY,11735,,,Web,9/10/2013,Closed with explanation,Yes,No,521526
+9/10/2013,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,,Bank of America,NY,10465,,,Web,10/1/2013,Closed with explanation,Yes,Yes,521249
+8/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,TX,76135,,,Postal mail,10/2/2013,Closed with explanation,Yes,No,511240
+9/24/2013,Debt collection,Federal student loan,Improper contact or sharing of info,Talked to a third party about my debt,,,"Navient Solutions, Inc.",MO,63401,,,Web,9/24/2013,Closed with explanation,Yes,No,540538
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Right to dispute notice not received,,,"ProCollect, Inc",TX,77065,,,Web,9/17/2013,Closed with explanation,Yes,No,531864
+9/10/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Experian,DE,19945,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521531
+9/24/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Wells Fargo & Company,NY,10510,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,540540
+9/24/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Citibank,TX,78610,,,Web,9/25/2013,Closed with explanation,Yes,No,540548
+8/30/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,NY,10607,Older American,,Web,9/3/2013,Closed with explanation,Yes,No,511249
+8/30/2013,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,,,Radius Global Solutions LLC,TX,77656,,,Postal mail,9/3/2013,Closed with explanation,Yes,No,511250
+8/30/2013,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,,,Wells Fargo & Company,TX,77656,,,Postal mail,9/3/2013,Closed with non-monetary relief,Yes,No,511251
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,MD,20607,Older American,,Postal mail,9/10/2013,Closed with explanation,Yes,Yes,520970
+9/10/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,Wells Fargo & Company,OH,43412,,,Web,9/11/2013,Closed with monetary relief,Yes,No,521534
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,VA,23060,,,Web,9/25/2013,Closed with explanation,Yes,No,540897
+9/17/2013,Debt collection,Non-federal student loan,Communication tactics,Threatened to take legal action,,,"Navient Solutions, Inc.",FL,33776,,,Web,9/18/2013,Closed with explanation,Yes,No,530778
+9/10/2013,Debt collection,Credit card,Taking/threatening an illegal action,Seized/Attempted to seize property,,,"Portfolio Recovery Associates, Inc.",NC,28202,,,Web,9/14/2013,Closed with explanation,Yes,No,521538
+9/10/2013,Credit card,,Other,,,,Barclays PLC,MA,2494,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521486
+8/30/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,Caine & Weiner Co. Inc.,FL,33411,,,Web,8/30/2013,Closed with explanation,Yes,No,511276
+9/10/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,DE,19945,,,Web,9/14/2013,Closed with non-monetary relief,Yes,Yes,521532
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NJ,7978,,,Web,9/11/2013,Closed with non-monetary relief,Yes,No,521292
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,PA,19143,,,Phone,9/10/2013,Closed with monetary relief,Yes,Yes,521491
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,HSBC North America Holdings Inc.,PA,17520,,,Phone,9/25/2013,Closed with explanation,Yes,No,540560
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,TD Bank US Holding Company,PA,18966,Older American,,Phone,9/10/2013,Closed with explanation,Yes,No,521541
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,MD,21030,,,Web,9/10/2013,Closed with explanation,Yes,No,521543
+8/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,IL,60441,,,Web,9/3/2013,Closed with explanation,Yes,Yes,509980
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Ditech Financial LLC,VA,22193,,,Web,9/25/2013,Closed with explanation,Yes,Yes,540557
+9/10/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Citibank,FL,32127,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521546
+9/10/2013,Mortgage,Home equity loan or line of credit,"Application, originator, mortgage broker",,,,Pentagon FCU,CA,90603,,,Web,9/10/2013,Closed with explanation,Yes,No,520835
+9/24/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,"PMAB, LLC",OH,45039,,,Web,9/25/2013,Closed with explanation,Yes,Yes,540565
+9/24/2013,Debt collection,Federal student loan,Cont'd attempts collect debt not owed,Debt was paid,,,"Navient Solutions, Inc.",NM,88220,,,Web,9/24/2013,Closed with monetary relief,Yes,No,540566
+9/17/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,NY,11742,,,Web,9/18/2013,Closed with explanation,Yes,No,530784
+8/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,MI,49507,,,Phone,9/4/2013,Closed with explanation,Yes,No,511587
+8/30/2013,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,,"Expert Global Solutions, Inc.",PA,15068,Older American,,Phone,9/4/2013,Closed with explanation,Yes,No,511202
+9/24/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,Allied Interstate LLC,IL,62629,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,540568
+9/25/2013,Credit card,,Billing disputes,,,,Capital One,NY,11209,,,Referral,10/2/2013,Closed with explanation,Yes,No,541895
+9/10/2013,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,"Burton Neil & Associates, P.C.",PA,16063,,,Web,9/14/2013,Closed with monetary relief,Yes,No,521551
+9/10/2013,Credit card,,Credit card protection / Debt protection,,,,Citibank,NJ,8861,Older American,,Web,9/10/2013,Closed with monetary relief,Yes,No,521556
+8/30/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",,,,TD Bank US Holding Company,NH,3857,,,Web,9/3/2013,Closed with explanation,Yes,No,511274
+9/17/2013,Credit card,,Closing/Cancelling account,,,,Capital One,FL,32277,,,Phone,9/18/2013,Closed with monetary relief,Yes,No,530787
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Ocwen,GA,30062,,,Web,10/22/2013,Closed with explanation,Yes,No,531370
+9/24/2013,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,,,"HOVG, LLC",TX,76052,Older American,,Web,9/26/2013,Closed with explanation,Yes,Yes,540571
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Kimball, Tirey & St. John LLP",CA,92130,,,Web,10/3/2013,Closed with non-monetary relief,Yes,No,540572
+9/24/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",CA,95648,,,Phone,9/25/2013,Closed with monetary relief,Yes,No,540574
+9/10/2013,Debt collection,I do not know,False statements or representation,Attempted to collect wrong amount,,,Encore Capital Group,CA,94566,,,Web,9/14/2013,Closed with explanation,Yes,No,521557
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,TN,37217,,,Referral,9/10/2013,Closed with monetary relief,Yes,No,521753
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase & Co.,TX,77488,,,Referral,9/10/2013,Closed with explanation,Yes,No,520964
+9/10/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,OH,45420,Servicemember,,Phone,9/10/2013,Closed with explanation,Yes,No,521563
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,Encore Capital Group,MD,20744,Servicemember,,Web,9/24/2013,Closed with explanation,Yes,Yes,540583
+9/10/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",AL,35120,,,Web,9/10/2013,Closed with monetary relief,Yes,No,521565
+9/10/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"Portfolio Recovery Associates, Inc.",MO,64151,,,Web,9/14/2013,Closed with explanation,Yes,Yes,521566
+8/30/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,FL,32259,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511278
+9/17/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Fifth Third Financial Corporation,OH,45218,,,Web,9/18/2013,Closed with monetary relief,Yes,No,530797
+9/17/2013,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,RMK Financial Corp,CA,91762,,,Referral,9/18/2013,Closed with explanation,Yes,No,530798
+9/24/2013,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Experian,CA,90049,Older American,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,540584
+9/24/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,CA,95677,,,Phone,9/25/2013,Closed with explanation,Yes,No,540586
+9/10/2013,Credit card,,APR or interest rate,,,,U.S. Bancorp,FL,32277,,,Web,9/14/2013,Closed with explanation,Yes,No,521628
+9/24/2013,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,FL,32927,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,540592
+9/17/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,U.S. Bancorp,WY,82414,Older American,,Postal mail,9/18/2013,Closed with explanation,Yes,Yes,531665
+9/10/2013,Debt collection,Non-federal student loan,Communication tactics,Frequent or repeated calls,,,"National Enterprise Systems, Inc.",CA,95361,,,Postal mail,9/10/2013,Closed with non-monetary relief,Yes,No,521577
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,TD Bank US Holding Company,NJ,8037,Older American,,Web,9/10/2013,Closed with explanation,Yes,No,521581
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,LA,70433,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521582
+9/24/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Capital One,TX,78759,,,Web,9/26/2013,Closed with explanation,Yes,No,539406
+9/24/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,CT,6450,"Older American, Servicemember",,Postal mail,9/25/2013,Closed with explanation,Yes,Yes,540895
+8/30/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Quicken Loans,FL,34104,,,Web,9/3/2013,Closed with explanation,Yes,No,511288
+9/24/2013,Credit card,,Late fee,,,,Capital One,OH,44601,,,Fax,9/25/2013,Closed with monetary relief,Yes,No,541250
+9/10/2013,Credit card,,Transaction issue,,,,"PayPal Holdings, Inc.",FL,33511,,,Web,9/11/2013,Closed with explanation,Yes,No,521586
+9/17/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,Citibank,NJ,8837,,,Postal mail,9/18/2013,Closed with monetary relief,Yes,No,530813
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,"Diversified Consultants, Inc.",OH,45383,,,Phone,9/18/2013,Closed with explanation,Yes,No,530815
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,TX,75104,,,Web,9/26/2013,Closed with non-monetary relief,Yes,No,540892
+9/10/2013,Credit card,,Late fee,,,,Capital One,FL,33542,,,Referral,9/10/2013,Closed with monetary relief,Yes,No,521589
+9/10/2013,Debt collection,Federal student loan,Cont'd attempts collect debt not owed,Debt is not mine,,,"Expert Global Solutions, Inc.",PA,19056,,,Phone,9/11/2013,Closed with explanation,Yes,No,521590
+9/10/2013,Debt collection,Non-federal student loan,Communication tactics,Threatened to take legal action,,,"Expert Global Solutions, Inc.",LA,71301,,,Web,9/14/2013,Closed with explanation,Yes,No,521591
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,MA,2151,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,531744
+9/17/2013,Bank account or service,Checking account,Problems caused by my funds being low,,,,PNC Bank N.A.,MI,48461,,,Referral,9/18/2013,Closed with monetary relief,Yes,No,530817
+9/17/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,HSBC North America Holdings Inc.,NY,13904,,,Referral,9/18/2013,Closed with explanation,Yes,No,531024
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,HI,96825,,,Web,9/26/2013,Closed with explanation,Yes,No,540601
+9/24/2013,Debt collection,I do not know,Improper contact or sharing of info,Talked to a third party about my debt,,,"Account Discovery Systems, LLC",CO,80013,Servicemember,,Web,9/24/2013,Closed with explanation,Yes,No,540606
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Regions Financial Corporation,FL,33612,,,Postal mail,9/18/2013,Closed,Yes,No,520995
+9/10/2013,Mortgage,Conventional adjustable mortgage (ARM),"Application, originator, mortgage broker",,,,"K. Hovnanian American Mortgage, L.L.C.",MD,20772,,,Web,10/28/2013,Closed with explanation,Yes,No,521282
+9/10/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,PNC Bank N.A.,KY,40272,,,Web,9/10/2013,Closed with explanation,Yes,No,521593
+9/17/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Royal United Mortgage LLC,CA,94518,,,Web,11/22/2013,Closed with explanation,Yes,No,530819
+9/17/2013,Money transfers,Domestic (US) money transfer,Fraud or scam,,,,MoneyGram,NV,89408,,,Web,9/17/2013,Closed with explanation,Yes,No,531856
+9/17/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,AZ,85021,,,Referral,9/18/2013,Closed with explanation,Yes,Yes,531339
+8/30/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,Discover,ID,83605,,,Postal mail,9/3/2013,Closed with monetary relief,Yes,No,511306
+8/30/2013,Credit card,,Billing statement,,,,Bank of America,PA,15632,,,Web,8/30/2013,Closed with explanation,Yes,No,511307
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,Bayview Solutions LLC,OH,44107,,,Phone,9/25/2013,Closed,No,No,540544
+9/10/2013,Debt collection,Auto,Cont'd attempts collect debt not owed,Debt is not mine,,,"Cavalry Investments, LLC",WA,98445,,,Phone,9/11/2013,Closed with explanation,Yes,No,521295
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,NJ,7006,,,Postal mail,9/11/2013,Closed with explanation,Yes,Yes,521597
+9/24/2013,Debt collection,Auto,Communication tactics,Frequent or repeated calls,,,TD Bank US Holding Company,UT,84123,,,Phone,9/26/2013,Closed with non-monetary relief,Yes,No,540613
+9/24/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,U.S. Bancorp,OH,43228,Older American,,Phone,10/23/2013,Closed with explanation,Yes,No,540616
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Threatened to take legal action,,,U.S. Bancorp,MN,55808,,,Web,9/18/2013,Closed with explanation,Yes,No,530822
+9/17/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Experian,GA,30680,,,Postal mail,10/4/2013,Closed with explanation,Yes,Yes,530309
+8/30/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"PennyMac Loan Services, LLC",CA,91367,,,Web,9/3/2013,Closed with explanation,Yes,No,511315
+8/30/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Frequent or repeated calls,,,"Franklin Collection Service, Inc.",TN,37115,,,Phone,9/3/2013,Closed with monetary relief,Yes,No,509972
+9/10/2013,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,"Portfolio Recovery Associates, Inc.",DE,19713,,,Phone,9/10/2013,Closed with non-monetary relief,Yes,No,521601
+9/10/2013,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,Synchrony Financial,DE,19713,,,Phone,9/10/2013,Closed with explanation,Yes,No,521602
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,TX,78724,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,521605
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Citibank,PA,18036,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,520972
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Valley National Bank,NY,11385,,,Phone,9/11/2013,Closed with explanation,Yes,No,521606
+9/24/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,MD,20748,Older American,,Phone,9/25/2013,Closed with non-monetary relief,Yes,No,540620
+8/30/2013,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,,Equifax,TX,76051,,,Web,8/30/2013,Closed with non-monetary relief,Yes,No,511322
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,CA,94044,,,Web,9/18/2013,Closed with explanation,Yes,Yes,531711
+9/17/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,BBVA Compass,CO,80221,,,Referral,9/19/2013,Closed with explanation,Yes,No,531076
+9/17/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,OR,97286,,,Postal mail,9/18/2013,Closed with explanation,Yes,Yes,531707
+9/17/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Bank of America,CA,91761,,,Referral,9/18/2013,Closed with explanation,Yes,Yes,531085
+9/10/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,HSBC North America Holdings Inc.,WA,98908,,,Web,9/10/2013,Closed with explanation,Yes,No,521611
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Improper contact or sharing of info,Contacted employer after asked not to,,,"Alliance Asset Management, Inc (Closed)",NJ,7083,,,Web,9/11/2013,Closed with explanation,No,No,521301
+8/30/2013,Debt collection,Auto,Communication tactics,Threatened to take legal action,,,Encore Capital Group,CA,92392,,,Phone,9/3/2013,Closed with explanation,Yes,No,511325
+8/30/2013,Debt collection,Auto,Communication tactics,Threatened to take legal action,,,HSBC North America Holdings Inc.,CA,92392,,,Phone,10/16/2013,Closed with explanation,Yes,No,511326
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,IN,46312,,,Postal mail,10/4/2013,Closed with explanation,Yes,No,521614
+9/10/2013,Credit card,,Closing/Cancelling account,,,,Barclays PLC,DC,20001,,,Web,9/14/2013,Closed with explanation,Yes,No,521618
+9/24/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,FL,33484,,,Fax,9/26/2013,Closed with explanation,Yes,Yes,539671
+9/24/2013,Mortgage,Second mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,IL,60016,,,Postal mail,9/25/2013,Closed with explanation,Yes,No,540603
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Webster Bank,NM,87120,,,Web,9/26/2013,Closed with explanation,Yes,No,540640
+9/24/2013,Credit card,,Other,,,,Citibank,TX,77079,,,Web,9/24/2013,Closed with monetary relief,Yes,No,540589
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,MI,48236,,,Referral,9/10/2013,Closed with explanation,Yes,No,521620
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Account Discovery Systems, LLC",FL,33178,,,Web,9/14/2013,Closed with explanation,Yes,No,521623
+8/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,90005,,,Postal mail,1/6/2014,Closed with explanation,Yes,Yes,511642
+8/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"TransUnion Intermediate Holdings, Inc.",CA,94506,,,Web,8/30/2013,Closed with explanation,Yes,No,511291
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,PA,15106,,,Referral,9/18/2013,Closed with explanation,Yes,Yes,530843
+9/17/2013,Credit card,,Delinquent account,,,,Amex,UT,84761,,,Web,9/18/2013,Closed with explanation,Yes,No,531704
+8/30/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Stoneleigh Recovery Associates, LLC",MI,48215,,,Postal mail,10/2/2013,Closed with non-monetary relief,Yes,No,511335
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,Ad Astra Recovery Services Inc,TX,75002,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,521631
+9/24/2013,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,,Wells Fargo & Company,FL,32548,Servicemember,,Web,9/26/2013,Closed with monetary relief,Yes,No,540622
+9/24/2013,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,,,Encore Capital Group,IN,47177,,,Postal mail,9/26/2013,Closed with explanation,Yes,No,540652
+9/24/2013,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,,,JPMorgan Chase & Co.,IN,47177,,,Postal mail,9/26/2013,Closed with explanation,Yes,No,540653
+9/17/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",NY,13440,,,Web,9/18/2013,Closed with explanation,Yes,No,530848
+8/30/2013,Mortgage,Second mortgage,"Loan modification,collection,foreclosure",,,,HSBC North America Holdings Inc.,AL,36067,,,Postal mail,9/3/2013,Closed with explanation,Yes,No,511334
+8/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,TX,76135,,,Postal mail,10/2/2013,Closed with explanation,Yes,No,511243
+9/10/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",PA,18042,,,Web,9/10/2013,Closed with monetary relief,Yes,No,521641
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Flagstar Bank,FL,34990,,,Referral,9/10/2013,Closed with explanation,Yes,No,521647
+9/24/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,JPMorgan Chase & Co.,CA,92879,,,Web,9/26/2013,Closed with monetary relief,Yes,No,540827
+9/24/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Quantum Servicing Company,NC,27104,Servicemember,,Phone,10/3/2013,Closed with explanation,Yes,Yes,540657
+9/17/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,33136,,,Web,9/18/2013,Closed with explanation,Yes,Yes,530092
+9/17/2013,Debt collection,I do not know,Disclosure verification of debt,Not given enough info to verify debt,,,"Unique Management Services, Inc",CA,90631,,,Web,9/17/2013,Closed with explanation,Yes,No,533216
+9/17/2013,Debt collection,I do not know,False statements or representation,Impersonated an attorney or official,,,"Oxford Law, LLC",PA,19382,,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,530853
+8/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Standard Mortgage Corporation,LA,70072,,,Fax,9/3/2013,Closed with explanation,Yes,No,511344
+8/30/2013,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,,,Bank of America,HI,96813,,,Web,8/30/2013,Closed with explanation,Yes,No,510083
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,SC,29651,,,Phone,9/10/2013,Closed with explanation,Yes,No,521654
+9/10/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,AES/PHEAA,NJ,7461,,,Phone,10/7/2013,Closed with explanation,Yes,No,521651
+9/10/2013,Money transfers,International money transfer,Money was not available when promised,,,,TD Bank US Holding Company,,,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521653
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,Streamline Recovery Inc,AR,72076,Servicemember,,Phone,10/28/2013,Closed with explanation,Yes,No,530856
+9/17/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,"TransUnion Intermediate Holdings, Inc.",FL,33136,,,Web,9/17/2013,Closed with explanation,Yes,No,530093
+8/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,TX,76135,,,Postal mail,10/2/2013,Closed with non-monetary relief,Yes,No,511244
+8/30/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",PA,19438,,,Web,9/4/2013,Closed with non-monetary relief,Yes,No,511348
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Allied Fidelity Services, LLC",FL,33178,,,Web,10/28/2013,Closed with monetary relief,Yes,No,521625
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Taking/threatening an illegal action,Threatened arrest/jail if do not pay,,,"EZCORP, Inc.",TX,77084,Servicemember,,Web,10/2/2013,Closed,Yes,No,530590
+8/30/2013,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt was discharged in bankruptcy,,,JPMorgan Chase & Co.,TX,76051,,,Web,8/30/2013,Closed with explanation,Yes,No,511323
+8/30/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Deutsche Bank,CA,90005,,,Postal mail,10/21/2013,Closed with explanation,No,No,511643
+8/30/2013,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,,,U.S. Bancorp,HI,96813,,,Web,8/30/2013,Closed with explanation,Yes,Yes,510084
+9/10/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,"SunTrust Banks, Inc.",MD,20850,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521336
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Santander Bank US,MA,2116,,,Web,9/10/2013,Closed,Yes,No,521664
+9/10/2013,Credit card,,Billing disputes,,,,Discover,PA,17100,,,Postal mail,9/10/2013,Closed with monetary relief,Yes,No,521665
+9/24/2013,Money transfers,International money transfer,Incorrect/missing disclosures or info,,,,The Western Union Company,FL,32118,,,Phone,9/25/2013,Closed with explanation,Yes,No,540670
+9/24/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,NY,10580,,,Postal mail,10/22/2013,Closed with explanation,Yes,No,540672
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not disclosed as an attempt to collect,,,ERC,FL,33132,,,Phone,9/26/2013,Closed with non-monetary relief,Yes,No,540673
+9/17/2013,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,,,Bank of America,VA,23146,,,Web,9/18/2013,Closed with explanation,Yes,Yes,530865
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,MI,48382,,,Fax,9/18/2013,Closed with explanation,Yes,Yes,530099
+8/30/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"TransUnion Intermediate Holdings, Inc.",TX,76135,,,Postal mail,10/2/2013,Closed with explanation,Yes,Yes,511245
+8/30/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Bank of America,CA,90005,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,511644
+9/17/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,NJ,7092,,,Postal mail,10/21/2013,Closed with non-monetary relief,Yes,No,530874
+9/24/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,Revenue Recovery Corporation,TN,37865,,,Postal mail,9/25/2013,Closed with explanation,Yes,No,540675
+9/10/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",SC,29082,,,Web,9/11/2013,Closed with explanation,Yes,Yes,521668
+9/10/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,Nationstar Mortgage,NJ,8820,Older American,,Web,9/10/2013,Closed with explanation,Yes,No,521672
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,MS,39215,,,Web,9/18/2013,Closed with explanation,Yes,Yes,531700
+8/30/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",CA,90005,,,Postal mail,9/3/2013,Closed with explanation,Yes,No,511645
+9/10/2013,Credit card,,Billing statement,,,,Bank of America,NE,68114,,,Web,9/14/2013,Closed with explanation,Yes,No,521675
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,FL,33176,,,Web,9/11/2013,Closed with explanation,Yes,No,521680
+9/24/2013,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Experian,VA,23060,,,Web,9/24/2013,Closed with explanation,Yes,No,540898
+9/24/2013,Credit card,,Billing disputes,,,,Citibank,MI,48128,,,Web,9/25/2013,Closed with monetary relief,Yes,No,540671
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase & Co.,TX,77459,,,Web,9/25/2013,Closed with monetary relief,Yes,No,540683
+8/30/2013,Mortgage,Other mortgage,Settlement process and costs,,,,Nationstar Mortgage,WA,98233,,,Referral,9/3/2013,Closed with explanation,Yes,No,511359
+8/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,PNC Bank N.A.,CO,81602,,,Web,9/4/2013,Closed with explanation,Yes,No,511338
+9/10/2013,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Genesis Lending,OH,43613,,,Web,9/11/2013,Closed with explanation,Yes,No,521684
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Taking/threatening an illegal action,Threatened arrest/jail if do not pay,,,"Dynamic Recovery Solutions, LLC",TX,77084,Servicemember,,Web,9/17/2013,Closed with explanation,Yes,No,531851
+9/24/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,NC,28217,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,540687
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Taking/threatening an illegal action,Threatened arrest/jail if do not pay,,,"Advance America, Cash Advance Centers, Inc.",CA,95901,,,Web,9/25/2013,Closed with explanation,Yes,No,540689
+8/30/2013,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,TD Bank US Holding Company,CA,91604,Older American,,Phone,9/3/2013,Closed with explanation,Yes,Yes,511366
+8/30/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,AES/PHEAA,GA,30097,,,Postal mail,9/4/2013,Closed with explanation,Yes,Yes,511653
+8/30/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,Allied Interstate LLC,CA,92105,,,Phone,9/4/2013,Closed with non-monetary relief,Yes,No,511368
+9/24/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,NY,10024,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,540867
+8/30/2013,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",,,,HSBC North America Holdings Inc.,NY,10037,,,Postal mail,9/3/2013,Closed,Yes,Yes,511374
+9/10/2013,Consumer Loan,Vehicle lease,Problems when you are unable to pay,,,,JPMorgan Chase & Co.,MD,21244,Servicemember,,Web,9/10/2013,Closed with explanation,Yes,No,521695
+9/24/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,FL,33782,,,Web,9/25/2013,Closed with explanation,Yes,No,540695
+9/24/2013,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,,,"McCarthy, Burgess & Wolff, Inc.",AZ,85281,,,Postal mail,9/25/2013,Closed with explanation,Yes,No,541169
+8/30/2013,Debt collection,Credit card,Improper contact or sharing of info,Talked to a third party about my debt,,,Discover,CA,94560,,,Phone,9/4/2013,Closed with explanation,Yes,No,511376
+8/30/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Threatened to take legal action,,,Ditech Financial LLC,AL,36541,Servicemember,,Web,11/7/2013,Closed with explanation,Yes,No,511377
+8/30/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,"TransUnion Intermediate Holdings, Inc.",NV,89074,,,Web,8/30/2013,Closed with non-monetary relief,Yes,No,511378
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Wells Fargo & Company,VA,23898,Servicemember,,Web,9/11/2013,Closed with explanation,Yes,No,521702
+9/10/2013,Consumer Loan,Installment loan,Managing the loan or lease,,,,"CashCall, Inc.",NM,87701,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,521704
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,TX,79902,,,Web,9/25/2013,Closed with explanation,Yes,No,540829
+8/31/2013,Credit card,,APR or interest rate,,,,Citibank,NJ,7054,Older American,,Web,8/31/2013,Closed with non-monetary relief,Yes,No,511462
+9/10/2013,Credit card,,APR or interest rate,,,,Citibank,DE,19802,Older American,,Web,9/14/2013,Closed with explanation,Yes,No,521635
+8/30/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,SC,29349,,,Web,9/4/2013,Closed with explanation,Yes,No,511387
+9/24/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,U.S. Bancorp,UT,84103,,,Web,9/24/2013,Closed with explanation,Yes,No,540700
+8/30/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,"Citizens Financial Group, Inc.",IL,61107,,,Referral,9/4/2013,Closed with explanation,Yes,No,509997
+9/24/2013,Bank account or service,Savings account,Deposits and withdrawals,,,,Citibank,CA,94538,,,Phone,9/26/2013,Closed with explanation,Yes,No,540703
+9/24/2013,Consumer Loan,Personal line of credit,Account terms and changes,,,,Encore Capital Group,CA,94547,,,Phone,9/25/2013,Closed with explanation,Yes,No,541358
+9/10/2013,Money transfers,International money transfer,Other transaction issues,,,,The Western Union Company,CA,90651,Older American,,Phone,9/18/2013,Closed with explanation,Yes,No,520877
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Santander Bank US,MA,1915,,,Referral,9/10/2013,Closed with monetary relief,Yes,Yes,521712
+9/10/2013,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,Encore Capital Group,GA,30350,,,Web,9/11/2013,Untimely response,No,No,522741
+8/31/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,Bank of America,GA,30097,,,Postal mail,9/4/2013,Closed with explanation,Yes,Yes,511654
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,WA,98056,,,Web,9/4/2013,Closed with explanation,Yes,No,511392
+8/31/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,HSBC North America Holdings Inc.,FL,33138,,,Fax,9/3/2013,Closed with explanation,Yes,No,510125
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,CA,94108,,,Web,9/10/2013,Closed with non-monetary relief,Yes,No,521402
+9/10/2013,Bank account or service,Savings account,Deposits and withdrawals,,,,Wells Fargo & Company,CA,90815,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,521719
+9/10/2013,Credit reporting,,Incorrect information on credit report,Public record,,,Experian,WV,25401,,,Web,9/14/2013,Closed with explanation,Yes,No,521720
+9/24/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,95503,,,Fax,9/25/2013,Closed with explanation,Yes,No,539427
+9/10/2013,Bank account or service,Checking account,Using a debit or ATM card,,,,JPMorgan Chase & Co.,CA,91367,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521723
+9/10/2013,Credit card,,Late fee,,,,Synchrony Financial,NC,27332,Older American,,Phone,9/10/2013,Closed with monetary relief,Yes,No,521724
+8/31/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,OR,97217,,,Web,8/30/2013,Closed with non-monetary relief,Yes,No,510042
+8/31/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,NV,89103,Older American,,Postal mail,9/4/2013,Closed with explanation,Yes,Yes,510038
+8/31/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"Security Credit Services, LLC",FL,33141,,,Web,8/30/2013,Closed with explanation,Yes,Yes,510022
+9/10/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,PNC Bank N.A.,NY,13685,Servicemember,,Web,9/11/2013,Closed with explanation,Yes,No,521726
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,BB&T Financial,FL,34639,,,Referral,9/16/2013,Closed with explanation,Yes,No,521730
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,OR,97035,,,Postal mail,9/18/2013,Closed with explanation,Yes,Yes,531337
+9/17/2013,Credit card,,Credit line increase/decrease,,,,"Citizens Financial Group, Inc.",MA,1020,,,Phone,9/18/2013,Closed with explanation,Yes,No,530888
+8/31/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Bank of America,AZ,85375,,,Web,9/4/2013,Closed,Yes,Yes,511395
+8/31/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,AES/PHEAA,OK,73034,,,Web,9/4/2013,Closed with monetary relief,Yes,No,511396
+9/10/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,EverBank,TX,78727,,,Phone,9/10/2013,Closed with explanation,Yes,No,521280
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Regions Financial Corporation,LA,70030,,,Referral,9/10/2013,Closed,Yes,No,521872
+8/31/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,WA,98512,,,Web,9/4/2013,Closed with non-monetary relief,Yes,Yes,510000
+8/31/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Experian,WA,98512,,,Web,9/4/2013,Closed with explanation,Yes,Yes,510001
+8/31/2013,Credit card,,Transaction issue,,,,Bank of America,WA,98102,,,Web,8/30/2013,Closed with monetary relief,Yes,Yes,511399
+9/10/2013,Credit card,,APR or interest rate,,,,Capital One,NC,28365,,,Postal mail,10/23/2013,Closed with monetary relief,Yes,No,521736
+9/24/2013,Credit card,,Other,,,,Citibank,TX,78131,,,Web,9/24/2013,Closed with explanation,Yes,Yes,541211
+8/31/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",NY,10026,,,Web,9/4/2013,Closed with explanation,Yes,Yes,510068
+8/31/2013,Mortgage,Conventional adjustable mortgage (ARM),Credit decision / Underwriting,,,,Bank of America,NV,89123,,,Web,9/4/2013,Closed with non-monetary relief,Yes,Yes,509993
+9/24/2013,Consumer Loan,Vehicle loan,Taking out the loan or lease,,,,"Westlake Services, LLC",TX,75070,,,Web,9/25/2013,Closed with explanation,Yes,Yes,540733
+8/31/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,PA,19606,,,Web,9/4/2013,Closed with explanation,Yes,No,511401
+8/31/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,UT,84096,,,Web,8/30/2013,Closed with non-monetary relief,Yes,No,511402
+8/31/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,MD,20772,,,Web,9/4/2013,Closed with explanation,Yes,Yes,511403
+9/24/2013,Mortgage,Other mortgage,Credit decision / Underwriting,,,,Bank of America,CA,92506,Older American,,Web,9/25/2013,Closed with explanation,Yes,No,540736
+8/31/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,USAA Savings,WA,98383,,,Web,9/4/2013,Closed with explanation,Yes,No,511405
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"CCS Financial Services, Inc.",CO,80026,,,Web,9/13/2013,Closed with non-monetary relief,No,No,511406
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,CA,95843,,,Web,9/4/2013,Closed with explanation,Yes,Yes,511407
+9/10/2013,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,,,Capital One,KY,40223,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,520991
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,NC,27597,,,Phone,9/10/2013,Closed with explanation,Yes,No,521749
+9/24/2013,Credit card,,Billing disputes,,,,U.S. Bancorp,CA,94571,Older American,,Phone,9/25/2013,Closed with non-monetary relief,Yes,No,540751
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,OH,45743,,,Web,10/8/2013,Closed with explanation,Yes,No,540741
+8/31/2013,Credit card,,Billing disputes,,,,Wells Fargo & Company,NM,88130,Older American,,Web,9/10/2013,Closed with explanation,Yes,No,511410
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,PNC Bank N.A.,PA,18324,,,Web,9/4/2013,Closed with explanation,Yes,Yes,511411
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Improper contact or sharing of info,Contacted me after I asked not to,,,"I.C. System, Inc.",TX,76112,,,Web,9/11/2013,Closed with explanation,Yes,No,511413
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Improper contact or sharing of info,Contacted me after I asked not to,,,"PayPal Holdings, Inc.",TX,76112,,,Web,9/5/2013,Closed with explanation,Yes,Yes,511414
+9/10/2013,Credit reporting,,Improper use of my credit report,Received marketing offer after opted out,,,"TransUnion Intermediate Holdings, Inc.",TX,78232,,,Web,9/14/2013,Closed with explanation,Yes,No,521662
+9/10/2013,Bank account or service,Savings account,Deposits and withdrawals,,,,Citibank,VA,20169,"Older American, Servicemember",,Phone,9/10/2013,Closed with explanation,Yes,Yes,521755
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,GA,30824,,,Web,9/11/2013,Closed with explanation,Yes,Yes,521756
+9/24/2013,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,"RGS Financial, Inc.",UT,84123,,,Web,9/24/2013,Closed with explanation,Yes,No,540667
+9/24/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,WI,54904,,,Web,9/25/2013,Closed with explanation,Yes,No,540746
+8/31/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,"SunTrust Banks, Inc.",NC,28214,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511415
+8/31/2013,Credit card,,Credit card protection / Debt protection,,,,U.S. Bancorp,PA,18016,,,Web,8/31/2013,Closed with explanation,Yes,Yes,511563
+8/31/2013,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,,,Financial Business and Consumer Solutions.,VA,23238,,,Web,8/31/2013,Closed with explanation,Yes,No,509953
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,Stellar Recovery Inc.,TX,77861,,,Web,8/31/2013,Closed with explanation,Yes,No,511419
+8/31/2013,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,,,Citibank,NY,11238,,,Web,9/5/2013,Closed with non-monetary relief,Yes,Yes,511421
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,CIT Bank National Association,NY,13685,Servicemember,,Web,9/11/2013,Closed with explanation,Yes,No,521728
+9/10/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,RI,2921,,,Postal mail,9/10/2013,Closed with non-monetary relief,Yes,No,520888
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,HSBC North America Holdings Inc.,NJ,7731,,,Referral,9/11/2013,Closed with explanation,Yes,No,521831
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,FL,33407,,,Web,9/25/2013,Closed with explanation,Yes,No,540749
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Fifth Third Financial Corporation,OH,45449,,,Referral,9/11/2013,Closed with non-monetary relief,Yes,No,521837
+8/31/2013,Credit card,,Late fee,,,,Capital One,IL,60143,,,Web,8/31/2013,Closed with monetary relief,Yes,No,511614
+8/31/2013,Credit card,,Billing disputes,,,,Citibank,TN,37923,,,Web,8/31/2013,Closed with explanation,Yes,No,510040
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,AZ,85335,,,Web,9/5/2013,Closed with explanation,Yes,No,511422
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,HSBC North America Holdings Inc.,CT,6002,,,Fax,9/18/2013,Closed with explanation,Yes,No,531706
+9/17/2013,Bank account or service,Checking account,Problems caused by my funds being low,,,,U.S. Bancorp,IL,62704,,,Web,9/18/2013,Closed with explanation,Yes,No,530887
+9/17/2013,Credit card,,Credit card protection / Debt protection,,,,Bank of America,NY,11561,,,Web,9/17/2013,Closed with explanation,Yes,No,531866
+8/31/2013,Credit card,,Sale of account,,,,"Portfolio Recovery Associates, Inc.",NC,28224,Older American,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511620
+8/31/2013,Credit card,,Late fee,,,,Synchrony Financial,IL,62701,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511424
+8/31/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,JPMorgan Chase & Co.,MI,48098,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511427
+8/31/2013,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,Synchrony Financial,CT,6853,,,Web,8/31/2013,Closed with explanation,Yes,No,511428
+9/24/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NY,11106,Older American,,Web,9/24/2013,Closed with explanation,Yes,No,541187
+9/24/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Experian,TX,78747,,,Web,9/26/2013,Closed with non-monetary relief,Yes,Yes,540755
+9/10/2013,Credit card,,APR or interest rate,,,,JPMorgan Chase & Co.,IL,60046,,,Web,9/14/2013,Closed with explanation,Yes,No,521764
+9/10/2013,Mortgage,FHA mortgage,Settlement process and costs,,,,Ditech Financial LLC,FL,34769,,,Web,9/25/2013,Closed with explanation,Yes,No,521768
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CA,92867,Older American,,Web,9/18/2013,Closed with explanation,Yes,Yes,530890
+9/17/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Citibank,AZ,85308,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,531367
+8/31/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"CCS Financial Services, Inc.",FL,32825,,,Web,11/22/2013,Closed with explanation,Yes,No,511430
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,"Seterus, Inc.",MI,49017,"Older American, Servicemember",,Web,9/3/2013,Closed with explanation,Yes,Yes,511432
+8/31/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,CO,80102,,,Web,9/3/2013,Closed with explanation,Yes,No,511433
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Regions Financial Corporation,SC,29210,,,Referral,9/10/2013,Closed with monetary relief,Yes,No,521850
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Bank of America,CT,6855,,,Phone,9/18/2013,Closed with non-monetary relief,Yes,No,531680
+8/31/2013,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Equifax,GA,31903,,,Web,9/3/2013,Closed with non-monetary relief,Yes,Yes,511435
+8/31/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",MI,48317,,,Web,9/5/2013,Closed with explanation,Yes,No,511436
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,GA,30043,,,Web,9/3/2013,Closed with explanation,Yes,No,510111
+9/24/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,CA,90027,,,Web,9/24/2013,Closed with explanation,Yes,No,540762
+9/24/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,Sallie Mae,VA,23059,,,Web,9/26/2013,Closed with explanation,Yes,No,540764
+9/10/2013,Consumer Loan,Vehicle loan,Taking out the loan or lease,,,,Toyota Motor Credit Corporation,OH,44122,,,Web,9/11/2013,Closed with explanation,Yes,No,521775
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,CA,95060,,,Web,9/14/2013,Closed with explanation,Yes,Yes,521776
+9/10/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,Radius Global Solutions LLC,TX,77630,,,Phone,9/11/2013,Closed with explanation,Yes,No,521777
+8/31/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",MI,49424,,,Web,9/5/2013,Closed with explanation,Yes,Yes,511437
+8/31/2013,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,,,Higher Education Student Assistance Authority (HESAA),NJ,8030,,,Web,9/3/2013,Closed with explanation,Yes,No,511440
+8/31/2013,Credit card,,Convenience checks,,,,Bank of America,FL,32708,,,Web,8/31/2013,Closed with explanation,Yes,No,510019
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Regions Financial Corporation,FL,33511,,,Referral,9/11/2013,Closed,Yes,No,521948
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,FL,33414,,,Web,9/11/2013,Closed with explanation,Yes,No,521780
+9/17/2013,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,,"TransUnion Intermediate Holdings, Inc.",TX,75070,,,Web,9/17/2013,Closed with explanation,Yes,No,531867
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CA,94086,,,Phone,9/18/2013,Closed with explanation,Yes,No,530901
+9/17/2013,Credit reporting,,Incorrect information on credit report,Account terms,,,Experian,GA,30319,,,Web,9/17/2013,Closed with explanation,Yes,Yes,531868
+8/31/2013,Debt collection,Credit card,Communication tactics,Threatened to take legal action,,,U.S. Bancorp,OH,44146,,,Web,8/31/2013,Closed with explanation,Yes,No,511442
+8/31/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,NJ,7960,,,Web,8/31/2013,Closed with non-monetary relief,Yes,No,511443
+8/31/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",NY,11561,,,Web,9/5/2013,Closed with non-monetary relief,Yes,No,511444
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,CA,94062,,,Web,9/25/2013,Closed with monetary relief,Yes,No,540771
+9/24/2013,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,,,PNC Bank N.A.,MI,48160,,,Web,9/25/2013,Closed,Yes,Yes,540773
+9/17/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",FL,32819,,,Web,9/18/2013,Closed with explanation,Yes,No,530904
+9/17/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,"TransUnion Intermediate Holdings, Inc.",NY,11710,,,Postal mail,10/3/2013,Closed with explanation,Yes,Yes,530840
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Taking/threatening an illegal action,Threatened arrest/jail if do not pay,,,"Linebarger Goggan Blair & Sampson, LLP",GA,30328,"Older American, Servicemember",,Web,10/7/2013,Closed with explanation,Yes,Yes,540776
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,Butte County Credit Bureau,MI,49633,Older American,,Web,9/24/2013,Closed with explanation,No,No,540395
+8/31/2013,Bank account or service,Other bank product/service,"Making/receiving payments, sending money",,,,Bank of America,CA,95602,Older American,,Web,9/3/2013,Closed with explanation,Yes,No,511446
+8/31/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,VA,22153,Servicemember,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,509986
+8/31/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,U.S. Bancorp,MO,63111,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511447
+9/10/2013,Debt collection,Non-federal student loan,False statements or representation,Attempted to collect wrong amount,,,Allied Interstate LLC,DC,20009,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521790
+9/10/2013,Debt collection,Non-federal student loan,False statements or representation,Attempted to collect wrong amount,,,"Navient Solutions, Inc.",DC,20009,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521791
+9/10/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,GA,30642,,,Web,9/14/2013,Closed with explanation,Yes,No,521792
+9/24/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",PA,19464,,,Web,9/25/2013,Closed with explanation,Yes,Yes,540866
+9/24/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,AES/PHEAA,NY,10579,,,Web,9/25/2013,Closed with explanation,Yes,No,540783
+8/31/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,NM,87123,,,Web,9/3/2013,Closed with explanation,Yes,No,511448
+8/31/2013,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,,,Ditech Financial LLC,NC,28042,,,Web,9/3/2013,Closed with explanation,Yes,No,511449
+8/31/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,NM,87121,,,Web,8/31/2013,Closed with non-monetary relief,Yes,No,510112
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Credit Protection Association, L.P.",NC,28117,,,Web,8/31/2013,Closed with non-monetary relief,Yes,No,511450
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,FL,32223,,,Phone,9/18/2013,Closed with explanation,Yes,No,530908
+9/24/2013,Credit card,,Billing disputes,,,,Capital One,CA,94002,,,Web,9/24/2013,Closed with monetary relief,Yes,No,540785
+8/31/2013,Mortgage,VA mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,IN,46186,,,Web,9/3/2013,Closed with explanation,Yes,No,511452
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Residential Credit Solutions,OR,97330,,,Web,9/3/2013,Closed with explanation,No,No,511453
+8/31/2013,Credit card,,Billing disputes,,,,Citibank,CA,90650,,,Web,9/3/2013,Closed with explanation,Yes,No,511454
+8/31/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Citibank,FL,33498,,,Web,9/3/2013,Closed with explanation,Yes,No,511455
+9/24/2013,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,,"TransUnion Intermediate Holdings, Inc.",CA,90062,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,540870
+9/17/2013,Credit card,,Sale of account,,,,"Convergent Resources, Inc.",TX,79912,Older American,,Web,9/18/2013,Closed with explanation,Yes,No,530913
+9/17/2013,Bank account or service,Savings account,"Account opening, closing, or management",,,,TD Bank US Holding Company,MA,1701,,,Web,9/18/2013,Closed with monetary relief,Yes,No,530914
+8/31/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Wells Fargo & Company,TX,77063,Servicemember,,Web,9/3/2013,Closed with explanation,Yes,No,509985
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Called outside of 8am-9pm,,,Encore Capital Group,IL,60491,,,Fax,10/22/2013,Closed with explanation,Yes,No,520915
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,"TransUnion Intermediate Holdings, Inc.",IL,60491,,,Fax,9/23/2013,Closed with explanation,Yes,No,520916
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,IL,60491,,,Fax,9/23/2013,Closed with non-monetary relief,Yes,No,520917
+8/31/2013,Money transfers,International money transfer,Money was not available when promised,,,,The Western Union Company,FL,33066,,,Web,8/31/2013,Closed with explanation,Yes,No,511456
+8/31/2013,Debt collection,Medical,Communication tactics,Frequent or repeated calls,,,Synchrony Financial,CA,95762,,,Web,8/31/2013,Closed with explanation,Yes,No,511098
+8/31/2013,Debt collection,Medical,Communication tactics,Frequent or repeated calls,,,Allied Interstate LLC,CA,95762,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511099
+9/24/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,"I.C. System, Inc.",LA,71106,"Older American, Servicemember",,Web,9/25/2013,Closed with explanation,Yes,No,540792
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,NH,3253,,,Web,9/10/2013,Closed with non-monetary relief,Yes,No,521804
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,OR,97639,,,Phone,9/18/2013,Closed with explanation,Yes,No,531359
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,PHH Mortgage,CA,92064,,,Web,9/18/2013,Closed with explanation,Yes,No,530916
+9/17/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,The Law Offices of Mitchell D. Bluhm & Associates,GA,30458,,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,530894
+9/24/2013,Debt collection,Auto,Cont'd attempts collect debt not owed,Debt is not mine,,,"Oxford Law, LLC",FL,33543,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,540740
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Ditech Financial LLC,OR,97701,,,Web,9/11/2013,Closed with explanation,Yes,Yes,521807
+9/10/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"SIMM Associates, Inc.",CO,80126,,,Web,9/14/2013,Closed with explanation,Yes,No,521810
+9/10/2013,Mortgage,FHA mortgage,Settlement process and costs,,,,Nationstar Mortgage,TX,76179,,,Web,9/10/2013,Closed with explanation,Yes,Yes,521892
+9/17/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,"Citizens Financial Group, Inc.",IL,60564,,,Referral,9/18/2013,Closed with monetary relief,Yes,No,531281
+9/17/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,Santander Consumer USA Holdings Inc,OH,45417,Older American,,Phone,9/18/2013,Closed with explanation,Yes,No,530922
+8/31/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,FL,33169,,,Web,9/3/2013,Closed with explanation,Yes,No,511463
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Convergent Resources, Inc.",CA,92121,,,Web,9/3/2013,Closed with explanation,Yes,No,511464
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,MO,63136,,,Referral,9/11/2013,Closed with explanation,Yes,No,522106
+9/24/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Round Point Mortgage,GA,30248,Servicemember,,Web,9/25/2013,Closed with explanation,Yes,No,540801
+9/24/2013,Credit card,,Other fee,,,,Citibank,VA,23231,,,Web,9/24/2013,Closed with monetary relief,Yes,No,540779
+8/31/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Bank of America,MA,1890,,,Web,9/3/2013,Closed with explanation,Yes,No,511466
+8/31/2013,Credit card,,Other,,,,Citibank,CA,91367,,,Web,8/31/2013,Closed with monetary relief,Yes,No,511467
+8/31/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"TransUnion Intermediate Holdings, Inc.",OR,97330,Servicemember,,Web,8/31/2013,Closed with non-monetary relief,Yes,No,510008
+9/24/2013,Bank account or service,Checking account,Problems caused by my funds being low,,,,Wells Fargo & Company,PA,17404,,,Web,10/15/2013,Closed with explanation,Yes,No,540803
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,MO,63125,,,Web,9/18/2013,Closed with explanation,Yes,No,530930
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Ditech Financial LLC,MO,65072,,,Referral,9/11/2013,Closed with explanation,Yes,No,522079
+8/31/2013,Credit card,,Delinquent account,,,,Capital One,OH,45215,,,Web,9/11/2013,Closed with explanation,Yes,Yes,509979
+8/31/2013,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Synchrony Financial,CA,91423,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511470
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,PA,17402,,,Web,9/3/2013,Closed with explanation,Yes,No,509987
+8/31/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,No,511471
+9/24/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,CA,95148,Older American,,Web,9/25/2013,Closed with explanation,Yes,Yes,540804
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,CA,94607,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,520946
+9/10/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CO,80013,,,Phone,9/10/2013,Closed with explanation,Yes,No,521821
+8/31/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,VA,24382,,,Web,8/31/2013,Closed with non-monetary relief,Yes,No,511472
+8/31/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,"TransUnion Intermediate Holdings, Inc.",VA,24382,,,Web,8/31/2013,Closed with non-monetary relief,Yes,No,511473
+8/31/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting report or credit score,,,Experian,FL,33407,,,Web,8/31/2013,Closed with explanation,Yes,Yes,510049
+9/17/2013,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,,,SquareTwo Financial Corporation,CT,6519,Servicemember,,Phone,9/18/2013,Closed with explanation,Yes,No,531353
+9/24/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,TD Bank US Holding Company,NY,10031,Older American,,Phone,9/25/2013,Closed with monetary relief,Yes,Yes,540807
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Afni, Inc.",VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,No,511474
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Hunter Warfield, Inc.",VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,Yes,511476
+9/24/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Frequent or repeated calls,,,The Receivable Management Services Corporation,NJ,7076,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,540810
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,PHH Mortgage,FL,33884,,,Web,9/25/2013,Closed with explanation,Yes,Yes,540814
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CA,95695,,,Referral,9/11/2013,Closed with non-monetary relief,Yes,Yes,522019
+9/10/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",CT,6611,,,Web,9/11/2013,Closed with explanation,Yes,No,521830
+9/17/2013,Bank account or service,Other bank product/service,Problems caused by my funds being low,,,,Union Bank,CA,92114,,,Web,9/18/2013,Closed with explanation,Yes,No,530943
+9/17/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,JPMorgan Chase & Co.,CA,92708,,,Web,9/18/2013,Closed with explanation,Yes,Yes,530934
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"National Credit Systems,Inc.",VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,No,511477
+8/31/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,HSBC North America Holdings Inc.,VA,24382,,,Web,10/16/2013,Closed with explanation,Yes,Yes,511478
+8/31/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,OR,97330,Servicemember,,Web,9/3/2013,Closed with explanation,Yes,Yes,510009
+8/31/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Vanderbilt Mortgage & Finance,VA,24382,,,Web,9/3/2013,Closed with explanation,Yes,No,511479
+8/31/2013,Credit card,,Billing disputes,,,,Citibank,CA,92117,,,Web,8/31/2013,Closed with monetary relief,Yes,No,511498
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,LA,70401,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521835
+9/10/2013,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt was paid,,,Absolute Collections Corp.,MD,21009,,,Postal mail,9/26/2013,Closed with explanation,Yes,No,520967
+9/24/2013,Credit reporting,,Credit reporting company's investigation,Investigation took too long,,,Experian,GA,30152,,,Web,9/24/2013,Closed with explanation,Yes,No,541376
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,MI,49546,Older American,,Web,9/25/2013,Closed with explanation,Yes,Yes,540819
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,WA,98118,,,Referral,10/17/2013,Closed with explanation,Yes,No,522275
+9/10/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,VA,22314,,,Web,9/14/2013,Closed with non-monetary relief,Yes,Yes,521841
+8/31/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Trident Asset Management, L.L.C.",VA,24382,,,Web,8/31/2013,Closed with non-monetary relief,Yes,No,511480
+8/31/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Charlottesville Bureau of Credits, Inc",VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,Yes,511481
+8/31/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,Medical Business Bureau,VA,24382,,,Web,8/31/2013,Closed with explanation,No,No,511482
+8/31/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,Tenet HealthCare Corporation,VA,24382,,,Web,10/17/2013,Closed with explanation,Yes,No,511483
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,SC,29440,,,Referral,9/18/2013,Closed with explanation,Yes,No,531146
+9/24/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,FL,33028,Older American,,Web,9/25/2013,Closed with explanation,Yes,No,540824
+9/24/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,TCF National Bank,IL,60505,,,Web,9/25/2013,Closed with explanation,Yes,No,540825
+8/31/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,Creditors Collection Service,VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,Yes,511485
+8/31/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"HCFS Health Care Financial Services, Inc.",VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,Yes,511486
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,"Fidelity National Information Services, Inc. (FNIS)",CA,90028,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511499
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,Ally Financial Inc.,CA,90028,,,Web,8/31/2013,Closed with monetary relief,Yes,Yes,511500
+9/17/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,Bank of America,NJ,7081,,,Web,9/18/2013,Closed with explanation,Yes,No,530991
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Taking/threatening an illegal action,Sued w/o proper notification of suit,,,"Nagle & Zaller, PC",MD,20904,,,Web,9/24/2013,Closed with explanation,Yes,Yes,541375
+8/31/2013,Mortgage,Other mortgage,"Application, originator, mortgage broker",,,,Quicken Loans,IL,60417,,,Web,9/3/2013,Closed with explanation,Yes,No,511501
+8/31/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Healthcare Receivables Group, Inc.",VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,No,511489
+9/17/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,JPMorgan Chase & Co.,IL,60625,,,Referral,9/18/2013,Closed with monetary relief,Yes,No,531150
+9/17/2013,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,,,Bank of America,GA,30080,,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,530957
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Used obscene/profane/abusive language,,,"Credit Protection Association, L.P.",FL,33611,,,Web,9/17/2013,Closed with explanation,Yes,No,531870
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,CA,91711,,,Referral,9/11/2013,Closed with explanation,Yes,No,522168
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,FL,32908,,,Referral,9/11/2013,Closed with explanation,Yes,No,522213
+9/25/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CA,95353,,,Web,9/25/2013,Closed with explanation,Yes,No,541382
+8/31/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Afni, Inc.",VA,24382,,,Web,9/3/2013,Closed with explanation,Yes,No,511492
+8/31/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,KS,66542,,,Web,9/3/2013,Closed with explanation,Yes,No,511502
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Citibank,IN,46250,,,Web,9/18/2013,Closed with explanation,Yes,No,530959
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,FL,33165,,,Referral,9/11/2013,Closed with explanation,Yes,Yes,521283
+8/31/2013,Credit reporting,,Incorrect information on credit report,Account terms,,,Experian,TN,37615,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511646
+8/31/2013,Credit reporting,,Incorrect information on credit report,Public record,,,Experian,TN,37615,,,Web,9/3/2013,Closed with explanation,Yes,No,511647
+8/31/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"Medical Data Systems, Inc.",VA,24382,,,Web,8/31/2013,Closed with explanation,Yes,No,511495
+9/25/2013,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,,Equifax,MI,48187,,,Web,9/24/2013,Closed with non-monetary relief,Yes,No,543068
+9/25/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Bank of America,WA,98507,,,Web,9/25/2013,Closed with explanation,Yes,No,541386
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,LA,70301,,,Referral,9/11/2013,Closed with explanation,Yes,No,522323
+8/31/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,"TransUnion Intermediate Holdings, Inc.",VA,24382,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511496
+9/1/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,TN,37615,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511648
+9/1/2013,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Experian,CA,92507,,,Web,8/31/2013,Closed with non-monetary relief,Yes,Yes,511503
+9/1/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,"TransUnion Intermediate Holdings, Inc.",TN,37615,,,Web,9/3/2013,Closed with explanation,Yes,No,511649
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,NV,89148,,,Referral,9/11/2013,Closed with explanation,Yes,No,521213
+9/1/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,TN,37615,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511650
+9/1/2013,Bank account or service,Checking account,Problems caused by my funds being low,,,,TD Bank US Holding Company,NC,28806,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511506
+9/25/2013,Credit card,,Bankruptcy,,,,Bank of America,NY,11746,,,Web,10/1/2013,Closed with non-monetary relief,Yes,Yes,541392
+9/25/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,92392,,,Web,9/25/2013,Closed with explanation,Yes,No,541393
+9/25/2013,Credit card,,Credit card protection / Debt protection,,,,Synchrony Financial,MD,21210,,,Web,9/24/2013,Closed with monetary relief,Yes,No,541394
+9/25/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Wells Fargo & Company,CA,94597,,,Web,9/25/2013,Closed with explanation,Yes,No,541395
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,CO,80020,,,Referral,9/11/2013,Closed with explanation,Yes,No,522360
+9/10/2013,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,,,"VW Credit, Inc",MD,20879,,,Postal mail,9/10/2013,Closed with explanation,Yes,No,520828
+9/25/2013,Credit card,,Payoff process,,,,Wells Fargo & Company,CA,95033,,,Web,9/24/2013,Closed with monetary relief,Yes,No,541399
+9/25/2013,Money transfers,Domestic (US) money transfer,Fraud or scam,,,,MoneyGram,VA,20147,,,Web,9/25/2013,Closed with explanation,Yes,No,541396
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,Encore Capital Group,AZ,85335,,,Web,9/24/2013,Closed with explanation,Yes,No,541397
+9/1/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"PayPal Holdings, Inc.",DC,20011,,,Web,9/26/2013,Closed with monetary relief,Yes,No,511515
+9/1/2013,Credit reporting,,Credit monitoring or identity protection,Billing dispute,,,Revenue Recovery Corporation,TN,37601,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511508
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Improper contact or sharing of info,Contacted me after I asked not to,,,"I.C. System, Inc.",TX,77069,,,Web,9/19/2013,Closed with explanation,Yes,No,530979
+9/17/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,NV,89166,,,Web,9/18/2013,Closed with explanation,Yes,No,530982
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,VA,22968,,,Referral,9/11/2013,Closed with explanation,Yes,No,520973
+9/25/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,"Westlake Services, LLC",OH,44131,Older American,,Web,9/25/2013,Closed with explanation,Yes,No,541400
+9/25/2013,Consumer Loan,Vehicle loan,Taking out the loan or lease,,,,JPMorgan Chase & Co.,WI,53216,,,Web,9/25/2013,Closed with explanation,Yes,No,541402
+9/25/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Flagstar Bank,GA,30033,,,Web,9/25/2013,Closed with explanation,Yes,No,541403
+9/25/2013,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,,,"Vital Solutions, Inc.",NV,89119,,,Web,9/25/2013,Closed with explanation,Yes,No,541404
+9/1/2013,Credit card,,Closing/Cancelling account,,,,JPMorgan Chase & Co.,NY,11235,,,Web,9/3/2013,Closed with explanation,Yes,No,511517
+9/1/2013,Credit reporting,,Credit monitoring or identity protection,Billing dispute,,,"HCFS Health Care Financial Services, Inc.",TN,37601,,,Web,9/3/2013,Closed with explanation,Yes,No,511509
+9/1/2013,Credit reporting,,Credit monitoring or identity protection,Billing dispute,,,ERC,TN,37601,,,Web,10/21/2013,Closed with non-monetary relief,Yes,No,511510
+9/1/2013,Credit reporting,,Credit monitoring or identity protection,Billing dispute,,,"Credit Bureau Collection Services, Inc.",TN,37601,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511511
+9/10/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CO,80013,,,Phone,9/11/2013,Closed with explanation,Yes,No,521822
+9/25/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Experian,LA,70124,,,Web,9/25/2013,Closed with explanation,Yes,No,542678
+9/25/2013,Mortgage,FHA mortgage,Settlement process and costs,,,,Bank of America,AZ,85210,,,Web,9/25/2013,Closed with explanation,Yes,Yes,541406
+9/1/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,IN,46404,Older American,,Web,9/3/2013,Closed with explanation,Yes,No,511637
+9/1/2013,Debt collection,I do not know,Disclosure verification of debt,Right to dispute notice not received,,,Encore Capital Group,CA,94558,Servicemember,,Web,8/31/2013,Closed with explanation,Yes,No,511518
+9/1/2013,Debt collection,I do not know,Disclosure verification of debt,Right to dispute notice not received,,,JPMorgan Chase & Co.,CA,94558,Servicemember,,Web,8/31/2013,Closed with explanation,Yes,No,511519
+9/1/2013,Credit card,,Payoff process,,,,Citibank,PA,18704,,,Web,8/31/2013,Closed with monetary relief,Yes,No,511520
+9/25/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,GA,30248,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,541408
+9/25/2013,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,"Financial Asset Resolution, LLC",PA,19522,,,Web,9/24/2013,Closed with explanation,No,No,541409
+9/25/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,"Select Portfolio Servicing, Inc",GA,30296,,,Web,9/25/2013,Closed with explanation,Yes,No,543087
+9/25/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,IL,60175,,,Web,9/25/2013,Closed with explanation,Yes,Yes,541410
+9/1/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,Penn Credit Corporation,WI,53705,,,Web,8/31/2013,Closed with explanation,Yes,No,511521
+9/1/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,AZ,85345,,,Web,8/31/2013,Closed with explanation,Yes,No,511522
+9/1/2013,Mortgage,VA mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,FL,33449,Servicemember,,Web,9/3/2013,Closed with explanation,Yes,Yes,511523
+9/1/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",NY,10475,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511524
+9/17/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",,,,JPMorgan Chase & Co.,FL,33319,,,Web,9/18/2013,Closed with explanation,Yes,Yes,530993
+9/17/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Residential Credit Solutions,ME,4862,,,Phone,9/18/2013,Closed with explanation,No,No,530994
+9/1/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,GA,30096,,,Web,8/31/2013,Closed with non-monetary relief,Yes,Yes,510044
+9/1/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Afni, Inc.",CA,94043,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511525
+9/25/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,UT,84737,,,Web,9/25/2013,Closed with explanation,Yes,No,541319
+9/25/2013,Debt collection,Credit card,Cont'd attempts collect debt not owed,Debt is not mine,,,"Expert Global Solutions, Inc.",WA,98395,,,Web,9/24/2013,Closed with explanation,Yes,No,541415
+9/25/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Bank of America,CA,93923,,,Web,9/25/2013,Closed with explanation,Yes,No,541416
+9/25/2013,Bank account or service,(CD) Certificate of deposit,"Account opening, closing, or management",,,,Ally Financial Inc.,CA,93004,,,Web,9/25/2013,Closed with explanation,Yes,No,541417
+10/15/2013,Credit card,,Transaction issue,,,,Amex,NV,89106,,,Web,10/15/2013,Closed with monetary relief,Yes,No,559283
+9/1/2013,Debt collection,Mortgage,Cont'd attempts collect debt not owed,Debt was paid,,,Ocwen,GA,30096,,,Web,9/3/2013,Closed with explanation,Yes,No,510045
+9/1/2013,Credit card,,Customer service / Customer relations,,,,Amex,VA,23692,,,Web,8/31/2013,Closed with explanation,Yes,No,511527
+9/1/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,"PennyMac Loan Services, LLC",OH,45240,"Older American, Servicemember",,Web,9/3/2013,Closed with explanation,Yes,No,511528
+9/1/2013,Credit card,,Billing disputes,,,,Wells Fargo & Company,NM,87110,,,Web,9/3/2013,Closed with explanation,Yes,No,511529
+9/1/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Residential Credit Solutions,NJ,8857,,,Web,9/3/2013,Closed with explanation,Yes,No,510386
+9/17/2013,Credit card,,Other,,,,TD Bank US Holding Company,FL,32778,,,Web,9/18/2013,Closed with monetary relief,Yes,No,531000
+9/17/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,Encore Capital Group,CA,95355,,,Web,9/18/2013,Closed with explanation,Yes,Yes,531726
+9/25/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Experian,LA,70124,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,542680
+9/25/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,LA,70124,,,Web,9/25/2013,Closed with explanation,Yes,Yes,542681
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,"Servis One, Inc.",CA,90019,,,Web,9/26/2013,Closed with explanation,Yes,No,541316
+9/1/2013,Credit card,,Other fee,,,,First National Bank of Omaha,NJ,7105,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511530
+9/1/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,CT,6357,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511531
+9/1/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,PHH Mortgage,OH,43220,,,Web,9/3/2013,Closed with explanation,Yes,No,511533
+9/1/2013,Credit card,,Payoff process,,,,Citibank,CA,90023,,,Web,9/3/2013,Closed with explanation,Yes,No,511612
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,GA,30107,,,Referral,9/11/2013,Closed with explanation,Yes,No,521893
+9/10/2013,Credit card,,Customer service / Customer relations,,,,Citibank,CA,95014,,,Web,9/11/2013,Closed with explanation,Yes,No,521894
+9/25/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,CO,81505,Servicemember,,Web,9/25/2013,Closed with explanation,Yes,No,541420
+9/25/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"Health Services Asset Management, LLC.",WA,99039,,,Web,9/25/2013,Closed,No,Yes,541421
+9/25/2013,Debt collection,I do not know,Taking/threatening an illegal action,Attempted to/Collected exempt funds,,,"Machol & Johannes, LLC",CO,80909,,,Web,9/24/2013,Closed with explanation,Yes,No,541422
+9/25/2013,Bank account or service,Checking account,Problems caused by my funds being low,,,,U.S. Bancorp,TN,37208,,,Web,9/25/2013,Closed with explanation,Yes,No,541424
+9/25/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Experian,LA,70124,,,Web,9/25/2013,Closed with explanation,Yes,No,542683
+9/1/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,SC,29209,,,Web,9/1/2013,Closed with explanation,Yes,No,511537
+9/10/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,Santander Consumer USA Holdings Inc,SC,29730,,,Web,9/11/2013,Closed with explanation,Yes,No,521895
+9/1/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,"PayPal Holdings, Inc.",MA,1772,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511534
+9/1/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,CA,91331,Servicemember,,Web,9/3/2013,Closed with explanation,Yes,No,511638
+9/1/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,NJ,8021,,,Web,9/3/2013,Closed with explanation,Yes,No,511536
+9/1/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,"Bayview Loan Servicing, LLC",PA,17517,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511544
+9/25/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,"TransUnion Intermediate Holdings, Inc.",LA,70124,,,Web,9/25/2013,Closed with explanation,Yes,Yes,542684
+9/25/2013,Credit reporting,,Incorrect information on credit report,Reinserted previously deleted info,,,Equifax,WA,98065,,,Web,9/30/2013,Closed with explanation,Yes,No,541426
+9/10/2013,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,,,TD Bank US Holding Company,FL,33898,,,Web,9/11/2013,Closed with explanation,Yes,No,521311
+9/25/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,JPMorgan Chase & Co.,GA,30296,,,Web,9/25/2013,Closed with explanation,Yes,No,543088
+9/25/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,U.S. Bancorp,IA,52302,,,Web,9/25/2013,Closed with monetary relief,Yes,No,541430
+9/25/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Bank of America,FL,32225,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,541431
+9/25/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,"SunTrust Banks, Inc.",TN,37067,,,Web,9/25/2013,Closed with monetary relief,Yes,No,541432
+9/1/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,TN,37091,,,Web,9/3/2013,Closed with explanation,Yes,No,511538
+9/1/2013,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,,,Wells Fargo & Company,OH,43209,,,Web,9/3/2013,Closed with explanation,Yes,No,509975
+9/17/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,PNC Bank N.A.,NC,28226,,,Web,9/18/2013,Closed with explanation,Yes,No,531015
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,MO,63385,,,Web,9/18/2013,Closed with explanation,Yes,Yes,531659
+9/25/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",CA,91351,,,Web,9/25/2013,Closed with explanation,Yes,No,541433
+9/1/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Citibank,CA,92657,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511541
+9/1/2013,Credit card,,Privacy,,,,Bank of America,PA,18017,,,Web,9/1/2013,Closed with explanation,Yes,Yes,511542
+9/10/2013,Credit card,,Other,,,,U.S. Bancorp,CA,90290,Older American,,Web,9/30/2013,Closed with explanation,Yes,Yes,521321
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Adler Wallach & Associates, Inc.",FL,33179,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,521252
+9/25/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,WI,54481,,,Web,9/25/2013,Closed with explanation,Yes,No,541434
+9/25/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,U.S. Bancorp,CA,90631,,,Web,9/25/2013,Closed with explanation,Yes,No,541435
+9/25/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"Afni, Inc.",GA,31324,Servicemember,,Web,9/24/2013,Closed with explanation,Yes,No,541436
+9/17/2013,Debt collection,Credit card,Communication tactics,Threatened to take legal action,,,"Levy and Associates, LLC",OH,45417,Older American,,Phone,9/18/2013,Closed with explanation,Yes,No,530923
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,IL,60021,,,Phone,9/18/2013,Closed with explanation,Yes,No,531025
+9/25/2013,Mortgage,FHA mortgage,Settlement process and costs,,,,PNC Bank N.A.,MO,64098,,,Web,9/25/2013,Closed with explanation,Yes,No,542706
+9/25/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,NJ,7628,,,Web,9/25/2013,Closed with explanation,Yes,Yes,541437
+9/25/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,M&T Bank Corporation,TX,78130,,,Web,9/25/2013,Closed with explanation,Yes,No,541438
+9/1/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,WI,53223,,,Web,9/3/2013,Closed with explanation,Yes,No,511594
+9/1/2013,Credit card,,Closing/Cancelling account,,,,JPMorgan Chase & Co.,MD,20785,,,Web,9/1/2013,Closed with non-monetary relief,Yes,No,509964
+9/10/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,TX,76124,,,Web,9/12/2013,Closed with non-monetary relief,Yes,No,521913
+9/25/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,U.S. Bancorp,WA,98020,,,Web,10/24/2013,Closed with explanation,Yes,No,541440
+9/25/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,CA,93552,,,Web,9/25/2013,Closed with explanation,Yes,No,541441
+9/1/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Citibank,OH,43214,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511546
+9/1/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Citibank,MO,63366,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511547
+9/17/2013,Credit card,,Billing disputes,,,,Bank of America,PA,19025,,,Web,9/17/2013,Closed with explanation,Yes,No,531822
+9/25/2013,Credit reporting,,Credit reporting company's investigation,Problem with statement of dispute,,,Equifax,GA,30093,,,Web,10/2/2013,Closed with non-monetary relief,Yes,No,541274
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,Coast to Coast Commercial Collection,TX,78408,Older American,,Phone,9/25/2013,Closed with explanation,Yes,No,521880
+9/10/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"Platinum Holdings Group, LLC",TN,38574,,,Web,9/11/2013,Closed with explanation,No,No,521924
+9/25/2013,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,,,"Navient Solutions, Inc.",DC,20019,,,Web,9/25/2013,Closed with explanation,Yes,No,542749
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Fidelity National Information Services, Inc. (FNIS)",NM,88001,,,Web,9/27/2013,Closed with explanation,Yes,No,541344
+9/1/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",,,,TD Bank US Holding Company,SC,29681,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511548
+9/1/2013,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,,,Capital One,CA,95824,,,Web,9/1/2013,Closed with explanation,Yes,No,511550
+9/1/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,AZ,85213,,,Web,9/9/2013,Closed with non-monetary relief,Yes,Yes,511551
+9/1/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Commonwealth Financial Systems, Inc.",TX,75380,,,Web,9/3/2013,Closed with explanation,Yes,No,511552
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,"Accounts Receivable Management, Inc.",CA,90242,Servicemember,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,541447
+9/25/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",NC,27114,,,Web,9/25/2013,Closed with explanation,Yes,Yes,541448
+9/25/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Citibank,PA,19406,,,Web,9/27/2013,Closed with explanation,Yes,No,541449
+9/25/2013,Money transfers,Domestic (US) money transfer,Other transaction issues,,,,"PayPal Holdings, Inc.",OR,97204,,,Web,9/25/2013,Closed with explanation,Yes,Yes,541450
+9/17/2013,Credit reporting,,Improper use of my credit report,Report shared with employer w/o consent,,,Equifax,MA,2062,,,Web,9/17/2013,Closed with explanation,Yes,Yes,533243
+9/17/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Quicken Loans,KS,67360,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,531035
+9/17/2013,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,Bank of America,NJ,8361,,,Web,9/18/2013,Closed with explanation,Yes,Yes,531034
+9/10/2013,Debt collection,Credit card,Improper contact or sharing of info,Contacted me after I asked not to,,,Encore Capital Group,GA,30350,,,Web,9/14/2013,Closed with explanation,Yes,Yes,520909
+9/1/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,OR,97488,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511553
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Used obscene/profane/abusive language,,,Knight Adjustment Bureau,UT,84123,,,Web,9/25/2013,Closed with monetary relief,Yes,No,541451
+9/25/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,CA,90066,,,Web,9/25/2013,Closed with explanation,Yes,No,541452
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Called outside of 8am-9pm,,,"CashCall, Inc.",NV,89081,,,Web,9/25/2013,Closed with explanation,Yes,No,541453
+9/25/2013,Mortgage,Home equity loan or line of credit,Credit decision / Underwriting,,,,Wells Fargo & Company,NC,28584,,,Web,9/25/2013,Closed with monetary relief,Yes,No,541457
+9/1/2013,Credit card,,Billing disputes,,,,Capital One,OR,97760,,,Web,9/1/2013,Closed with explanation,Yes,No,511557
+9/1/2013,Credit card,,Other,,,,TD Bank US Holding Company,AZ,85206,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,509952
+9/1/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Afni, Inc.",TX,75115,,,Web,9/1/2013,Closed with explanation,Yes,No,511554
+9/1/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Jon Barry and Associates, Inc.",TX,75115,,,Web,9/1/2013,Closed with explanation,Yes,No,511555
+9/1/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,"Debt Recovery Solutions, LLC",TX,75115,,,Web,9/1/2013,Closed with explanation,Yes,No,511556
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,93001,,,Postal mail,9/11/2013,Closed with explanation,Yes,No,520984
+9/10/2013,Bank account or service,Checking account,"Making/receiving payments, sending money",,,,Bank of America,CA,95965,,,Postal mail,9/11/2013,Closed with explanation,Yes,No,521935
+9/17/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,PA,18202,,,Referral,9/18/2013,Closed with explanation,Yes,No,531039
+9/25/2013,Student loan,Non-federal student loan,Problems when you are unable to pay,Problems when you are unable to pay,,,"Navient Solutions, Inc.",OH,43614,,,Web,9/25/2013,Closed with explanation,Yes,Yes,542665
+9/1/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,OR,97760,,,Web,9/1/2013,Closed with explanation,Yes,No,511558
+9/1/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Ocwen,MT,59801,Servicemember,,Web,9/3/2013,Closed with explanation,Yes,No,511561
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,"Solomon and Solomon, P.C.",DC,20019,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,543049
+9/17/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,"Seterus, Inc.",KS,67360,,,Postal mail,9/18/2013,Closed with explanation,Yes,No,531036
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,CA,92054,,,Web,9/18/2013,Closed with explanation,Yes,No,531047
+9/25/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Clarity Services,OH,43227,,,Postal mail,10/25/2013,Closed with explanation,Yes,No,541459
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",CA,91342,,,Referral,9/25/2013,Closed with explanation,Yes,No,541520
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,FL,33472,,,Referral,9/25/2013,Closed with explanation,Yes,No,541594
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Improper contact or sharing of info,Talked to a third party about my debt,,,Bonded Adjustment Company,WA,99208,,,Phone,10/17/2013,Closed with explanation,No,No,521945
+9/10/2013,Credit card,,Credit card protection / Debt protection,,,,Capital One,TX,75104,,,Web,9/20/2013,Closed with monetary relief,Yes,No,520943
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,"Virtuoso Sourcing Group, LLC.",CA,91786,,,Phone,9/11/2013,Closed with explanation,Yes,No,521947
+9/1/2013,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,,,HSBC North America Holdings Inc.,OH,44706,,,Web,10/21/2013,Closed with explanation,Yes,No,511564
+9/1/2013,Credit card,,Other,,,,Capital One,PA,16066,,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,511565
+9/24/2013,Credit card,,Rewards,,,,Amex,GA,30097,,,Referral,9/25/2013,Closed with explanation,Yes,No,539819
+9/1/2013,Debt collection,Credit card,Disclosure verification of debt,Not given enough info to verify debt,,,"Cavalry Investments, LLC",FL,35055,,,Web,9/1/2013,Closed with explanation,Yes,No,510090
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,NC,27332,,,Referral,9/25/2013,Closed with explanation,Yes,No,541689
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,95821,Older American,,Referral,9/25/2013,Closed with explanation,Yes,No,542777
+9/25/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Santander Bank US,PA,17402,,,Web,10/16/2013,Closed,Yes,No,541464
+9/17/2013,Credit card,,APR or interest rate,,,,JPMorgan Chase & Co.,CA,92553,,,Phone,9/18/2013,Closed with non-monetary relief,Yes,No,531049
+9/17/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Wells Fargo & Company,CA,90212,,,Web,9/18/2013,Closed with explanation,Yes,No,531051
+9/1/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,"Cornerstone Mortgage, Inc.",MO,63105,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511568
+9/1/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,NJ,7838,,,Web,9/3/2013,Closed with explanation,Yes,No,511569
+9/1/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,JPMorgan Chase & Co.,TX,75026,,,Web,9/3/2013,Closed with explanation,Yes,No,511570
+9/25/2013,Mortgage,Second mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,92262,,,Referral,9/25/2013,Closed with explanation,Yes,No,541567
+9/25/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",NY,12477,,,Referral,9/25/2013,Closed with explanation,Yes,No,541635
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,CA,93311,Older American,,Referral,9/25/2013,Closed with explanation,Yes,No,541539
+9/1/2013,Credit card,,Credit line increase/decrease,,,,Capital One,VA,22066,,,Web,9/1/2013,Closed with explanation,Yes,No,510050
+9/10/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Experian,VA,23836,Older American,,Web,9/14/2013,Closed with explanation,Yes,No,522655
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,FL,34233,,,Web,9/11/2013,Closed with explanation,Yes,No,521964
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CA,90043,Servicemember,,Referral,9/25/2013,Closed with non-monetary relief,Yes,No,541676
+9/1/2013,Credit reporting,,Unable to get credit report/credit score,Problem getting my free annual report,,,Equifax,FL,33712,Older American,,Web,9/1/2013,Closed with non-monetary relief,Yes,Yes,511572
+9/1/2013,Debt collection,Mortgage,Communication tactics,Frequent or repeated calls,,,Ditech Financial LLC,FL,33626,,,Web,9/1/2013,Closed with explanation,Yes,No,511573
+9/1/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Fifth Third Financial Corporation,OH,43224,,,Web,9/3/2013,Closed with explanation,Yes,No,511574
+9/17/2013,Bank account or service,Checking account,Using a debit or ATM card,,,,Citibank,FL,33131,,,Web,9/19/2013,Closed with monetary relief,Yes,Yes,530974
+9/17/2013,Consumer Loan,Installment loan,Taking out the loan or lease,,,,"CashCall, Inc.",OR,97322,,,Web,9/18/2013,Closed with explanation,Yes,Yes,531057
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,"LTD Financial Services, L.P.",MO,65802,Older American,,Web,9/14/2013,Closed with explanation,Yes,No,521967
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",False statements or representation,Attempted to collect wrong amount,,,Citibank,MO,65802,Older American,,Web,9/11/2013,Closed with explanation,Yes,No,521968
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CA,91730,,,Referral,9/25/2013,Closed with explanation,Yes,Yes,541651
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,MO,65110,,,Referral,9/25/2013,Closed with explanation,Yes,No,541920
+9/1/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Harris & Harris, Ltd.",CA,92648,,,Web,9/1/2013,Closed with explanation,Yes,No,511575
+9/1/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,NY,11354,,,Web,9/1/2013,Closed with non-monetary relief,Yes,No,510075
+9/1/2013,Credit card,,Other,,,,Discover,SC,29115,,,Web,9/5/2013,Closed with non-monetary relief,Yes,No,509957
+9/1/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Arvest Bank,CA,92503,,,Web,9/3/2013,Closed with explanation,Yes,No,511577
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CA,95949,Older American,,Referral,9/25/2013,Closed with explanation,Yes,Yes,541290
+9/25/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,CT,6042,,,Web,9/25/2013,Closed with explanation,Yes,No,541466
+9/25/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,First Tennessee Bank,TN,38116,,,Referral,9/25/2013,Closed with explanation,Yes,No,541467
+9/10/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Arvest Bank,CA,94517,,,Web,9/11/2013,Closed with explanation,Yes,No,521977
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,CA,90401,Older American,,Referral,9/25/2013,Closed with explanation,Yes,No,541843
+9/1/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Residential Credit Solutions,CA,95757,,,Referral,9/3/2013,Closed with explanation,Yes,Yes,511578
+9/1/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",TX,78745,Servicemember,,Web,9/3/2013,Closed with explanation,Yes,Yes,511580
+9/1/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,KeyBank NA,NC,27604,,,Web,9/3/2013,Closed with explanation,Yes,No,511581
+9/1/2013,Credit reporting,,Incorrect information on credit report,Account terms,,,Experian,CA,92071,,,Web,9/1/2013,Closed with non-monetary relief,Yes,No,511582
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,VA,20152,,,Referral,9/25/2013,Closed with explanation,Yes,No,541882
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Ocwen,FL,34430,,,Referral,9/25/2013,Closed with explanation,Yes,No,542001
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,SC,29803,Servicemember,,Referral,9/25/2013,Closed with explanation,Yes,No,541967
+9/17/2013,Mortgage,VA mortgage,Settlement process and costs,,,,NVR Inc,FL,32825,,,Postal mail,9/18/2013,Closed with explanation,Yes,Yes,531063
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Expert Global Solutions, Inc.",MH,1585,,,Phone,9/18/2013,Closed with explanation,Yes,No,531068
+9/1/2013,Debt collection,I do not know,Cont'd attempts collect debt not owed,Debt is not mine,,,Universal Fidelity LP,OR,97306,Servicemember,,Web,9/1/2013,Closed,Yes,No,511583
+9/1/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,CA,91765,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511585
+9/1/2013,Mortgage,VA mortgage,"Application, originator, mortgage broker",,,,"First Continental Mortgage, Ltd",NM,88311,Older American,,Web,9/3/2013,Closed with explanation,Yes,No,511586
+9/10/2013,Mortgage,FHA mortgage,"Loan servicing, payments, escrow account",,,,Wells Fargo & Company,TX,76028,,,Web,9/11/2013,Closed with explanation,Yes,No,521980
+9/10/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,Alorica Inc.,GA,30035,,,Web,9/14/2013,Closed with explanation,Yes,No,521981
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Bank of America,CA,91767,Older American,,Phone,9/11/2013,Closed with explanation,Yes,No,521983
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,The Receivable Management Services Corporation,NY,11709,,,Postal mail,9/25/2013,Closed with non-monetary relief,Yes,No,541275
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,FL,33626,,,Referral,9/25/2013,Closed with explanation,Yes,No,541959
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Academy Mortgage,TX,76049,,,Referral,9/11/2013,Closed with monetary relief,Yes,No,521973
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,JPMorgan Chase & Co.,NY,11746,,,Web,9/11/2013,Closed with explanation,Yes,Yes,521988
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,LA,70815,,,Referral,9/25/2013,Closed with explanation,Yes,No,542012
+9/25/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,Discover,CA,91343,,,Postal mail,9/25/2013,Closed with explanation,Yes,No,541472
+9/2/2013,Mortgage,Conventional fixed mortgage,Credit decision / Underwriting,,,,Pentagon FCU,AZ,85215,,,Web,9/3/2013,Closed with monetary relief,Yes,No,512549
+9/2/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Wells Fargo & Company,TX,78258,,,Web,9/3/2013,Closed with monetary relief,Yes,No,512550
+9/10/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"TransUnion Intermediate Holdings, Inc.",WI,53528,,,Web,9/14/2013,Closed with explanation,Yes,No,521991
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,TX,75709,Servicemember,,Web,9/25/2013,Closed with explanation,Yes,No,541476
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,"Select Portfolio Servicing, Inc",VA,22192,,,Referral,9/26/2013,Closed with explanation,Yes,No,542138
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,HSBC North America Holdings Inc.,NJ,7111,,,Referral,9/26/2013,Closed with explanation,Yes,Yes,542498
+9/10/2013,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,,,Wells Fargo & Company,UT,84104,,,Web,9/11/2013,Closed with explanation,Yes,No,521996
+9/25/2013,Credit reporting,,Credit monitoring or identity protection,Problem cancelling or closing account,,,"TransUnion Intermediate Holdings, Inc.",CO,80020,"Older American, Servicemember",,Postal mail,9/26/2013,Closed with non-monetary relief,Yes,No,542298
+9/25/2013,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,Encore Capital Group,PR,777,,,Postal mail,10/4/2013,Closed with explanation,Yes,No,543042
+9/25/2013,Debt collection,Credit card,Communication tactics,Frequent or repeated calls,,,Citibank,PR,777,,,Postal mail,10/4/2013,Closed with explanation,Yes,No,543043
+9/2/2013,Debt collection,Medical,False statements or representation,Attempted to collect wrong amount,,,KelKris Associates Inc,CA,95630,,,Web,9/4/2013,Closed with non-monetary relief,Yes,No,512553
+9/17/2013,Mortgage,FHA mortgage,Settlement process and costs,,,,Citibank,TX,75068,,,Web,9/18/2013,Closed with explanation,Yes,No,531084
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Diversified Consultants, Inc.",CA,92504,,,Phone,9/11/2013,Closed with explanation,Yes,No,522000
+9/10/2013,Credit reporting,,Incorrect information on credit report,Public record,,,Experian,PA,15206,,,Web,9/14/2013,Closed with non-monetary relief,Yes,Yes,522002
+9/10/2013,Money transfers,Domestic (US) money transfer,Other transaction issues,,,,HSBC North America Holdings Inc.,,,,,Web,9/11/2013,Closed with explanation,Yes,No,522003
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,"SunTrust Banks, Inc.",NY,3743,,,Web,9/11/2013,Closed with monetary relief,Yes,No,522004
+9/25/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,IL,60502,,,Referral,9/25/2013,Closed with explanation,Yes,No,542025
+9/25/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Nationstar Mortgage,MI,48127,,,Web,9/25/2013,Closed with explanation,Yes,No,541478
+9/2/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,FL,32811,,,Web,9/1/2013,Closed with non-monetary relief,Yes,No,512558
+9/2/2013,Credit card,,Late fee,,,,Synchrony Financial,NE,68504,,,Web,9/1/2013,Closed with monetary relief,Yes,No,512559
+9/2/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,MD,21140,,,Web,9/3/2013,Closed with explanation,Yes,Yes,512560
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,NY,11374,,,Postal mail,9/25/2013,Closed with explanation,Yes,No,541480
+9/10/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,JPMorgan Chase & Co.,FL,33406,,,Web,9/11/2013,Closed with explanation,Yes,No,522007
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"Convergent Resources, Inc.",TN,37862,Older American,,Web,9/11/2013,Closed with explanation,Yes,No,522008
+9/25/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Ocwen,GA,30214,,,Postal mail,9/25/2013,Closed,Yes,No,541483
+9/25/2013,Credit reporting,,Credit monitoring or identity protection,Problem cancelling or closing account,,,Equifax,CO,80020,"Older American, Servicemember",,Postal mail,9/25/2013,Closed with explanation,Yes,No,542299
+9/2/2013,Credit card,,Late fee,,,,Barclays PLC,DC,20011,,,Web,9/3/2013,Closed with monetary relief,Yes,No,512561
+9/2/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,PA,18071,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511937
+9/2/2013,Consumer Loan,Installment loan,Managing the loan or lease,,,,U.S. Bancorp,MO,65791,,,Web,9/3/2013,Closed with explanation,Yes,No,512562
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Ditech Financial LLC,CA,92029,Older American,,Web,9/25/2013,Closed with explanation,Yes,No,531091
+9/17/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",VA,23226,,,Web,9/18/2013,Closed with explanation,Yes,No,531095
+9/10/2013,Credit reporting,,Credit reporting company's investigation,Inadequate help over the phone,,,Equifax,AL,36533,,,Web,9/11/2013,Closed with non-monetary relief,Yes,No,521281
+9/10/2013,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,TD Bank US Holding Company,ME,4554,,,Web,9/11/2013,Closed with explanation,Yes,Yes,522013
+9/2/2013,Mortgage,Conventional fixed mortgage,"Application, originator, mortgage broker",,,,Third Federal Savings & Loan,OH,44143,,,Web,9/3/2013,Closed with explanation,Yes,Yes,512564
+9/2/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,JPMorgan Chase & Co.,NJ,8533,,,Web,9/2/2013,Closed with explanation,Yes,No,512565
+9/2/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,E*Trade Bank,AL,35950,,,Web,9/3/2013,Closed with explanation,Yes,No,512567
+9/2/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,Barclays PLC,FL,33756,,,Web,9/3/2013,Closed with monetary relief,Yes,No,512568
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Communication tactics,Threatened to take legal action,,,CNG Financial Corporation,NV,89031,,,Web,9/20/2013,Closed with explanation,No,No,522017
+9/2/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,MO,63349,,,Web,9/6/2013,Closed with non-monetary relief,Yes,No,512569
+9/2/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Wells Fargo & Company,CA,92024,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511844
+9/2/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,IN,46409,,,Web,9/3/2013,Closed with non-monetary relief,Yes,No,511870
+9/25/2013,Credit card,,Delinquent account,,,,Bank of America,FL,32082,,,Web,9/25/2013,Closed with explanation,Yes,Yes,543034
+9/25/2013,Credit reporting,,Credit monitoring or identity protection,Problem cancelling or closing account,,,Experian,CO,80020,"Older American, Servicemember",,Postal mail,9/25/2013,Closed with explanation,Yes,No,542300
+9/17/2013,Mortgage,FHA mortgage,"Application, originator, mortgage broker",,,,"Peoples Home Equity, Inc.",IL,62062,,,Web,9/18/2013,Closed with explanation,Yes,No,531103
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Citibank,PA,18080,,,Web,9/18/2013,Closed with explanation,Yes,No,531106
+9/2/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,MI,49506,,,Web,9/5/2013,Closed with explanation,Yes,Yes,512570
+9/2/2013,Debt collection,Medical,Disclosure verification of debt,Not given enough info to verify debt,,,"Illinois Collection Service, Inc.",IN,46409,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511871
+9/2/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt is not mine,,,"Commonwealth Financial Systems, Inc.",IN,46409,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511873
+9/2/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Debt Recovery Solutions, LLC",IN,46409,,,Web,9/5/2013,Closed with explanation,Yes,Yes,511875
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,U.S. Bancorp,WI,53186,,,Postal mail,9/11/2013,Closed with explanation,Yes,No,522646
+9/10/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,Wells Fargo & Company,NC,28803,,,Web,9/11/2013,Closed with explanation,Yes,No,522026
+9/10/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Equifax,MD,21239,,,Postal mail,10/7/2013,Closed with explanation,Yes,Yes,521230
+9/10/2013,Mortgage,Other mortgage,Credit decision / Underwriting,,,,JPMorgan Chase & Co.,AZ,85281,,,Web,9/11/2013,Closed,Yes,No,521335
+9/17/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,"Select Portfolio Servicing, Inc",MI,49107,,,Web,9/18/2013,Closed with explanation,Yes,Yes,531110
+9/17/2013,Mortgage,FHA mortgage,"Application, originator, mortgage broker",,,,Platinum Home Mortgage Corporation,CA,92223,,,Web,9/18/2013,Closed with monetary relief,Yes,Yes,531315
+9/10/2013,Credit card,,Billing disputes,,,,HSBC North America Holdings Inc.,CA,93675,,,Web,10/2/2013,Closed with explanation,Yes,Yes,522028
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,Encore Capital Group,NY,10024,,,Web,9/14/2013,Closed with non-monetary relief,Yes,No,522032
+9/2/2013,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt is not mine,,,"Allied Collection Service, Inc. (Indiana)",IN,46409,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511876
+9/2/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,CT,6902,,,Web,9/3/2013,Closed with explanation,Yes,No,512571
+9/2/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",TN,37930,,,Web,9/3/2013,Closed with explanation,Yes,No,512573
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,FL,33471,,,Postal mail,9/25/2013,Closed with explanation,Yes,No,543031
+9/25/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Experian,PA,19401,,,Postal mail,10/8/2013,Closed with explanation,Yes,No,541509
+9/10/2013,Debt collection,Credit card,False statements or representation,Attempted to collect wrong amount,,,"Cavalry Investments, LLC",IA,52404,,,Web,9/14/2013,Closed with explanation,Yes,No,522034
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Citibank,NE,68073,,,Phone,9/18/2013,Closed with explanation,Yes,No,531119
+9/17/2013,Credit reporting,,Incorrect information on credit report,Account status,,,"TransUnion Intermediate Holdings, Inc.",CT,6851,,,Fax,11/5/2013,Closed with non-monetary relief,Yes,No,531113
+9/17/2013,Credit reporting,,Incorrect information on credit report,Account terms,,,Experian,GA,30004,,,Web,9/17/2013,Closed with non-monetary relief,Yes,No,531876
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,GA,30214,,,Postal mail,9/11/2013,Closed with explanation,Yes,Yes,522038
+9/10/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Diversified Consultants, Inc.",MD,21206,Servicemember,,Web,9/11/2013,Closed with explanation,Yes,No,521954
+9/25/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,MA,1876,,,Web,9/25/2013,Closed with explanation,Yes,Yes,542714
+9/25/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,PA,19401,,,Postal mail,10/9/2013,Closed with explanation,Yes,No,541510
+9/25/2013,Mortgage,Home equity loan or line of credit,"Loan servicing, payments, escrow account",,,,Fifth Third Financial Corporation,MI,48009,,,Postal mail,9/25/2013,Closed with explanation,Yes,Yes,541269
+9/17/2013,Debt collection,I do not know,Communication tactics,Frequent or repeated calls,,,GC Services Limited Partnership,ID,83707,,,Web,9/17/2013,Closed with non-monetary relief,Yes,No,533635
+9/17/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,Bank of America,FL,32164,Older American,,Web,9/17/2013,Closed with explanation,Yes,No,531877
+9/2/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,NC,27822,,,Web,9/3/2013,Closed with non-monetary relief,Yes,Yes,512575
+9/25/2013,Mortgage,VA mortgage,"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,NC,28304,,,Web,9/25/2013,Closed with explanation,Yes,No,541608
+9/25/2013,Credit reporting,,Incorrect information on credit report,Account status,,,Synchrony Financial,TN,37681,Servicemember,,Referral,9/25/2013,Closed with explanation,Yes,No,542757
+9/25/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,MN,55124,,,Referral,9/26/2013,Closed with monetary relief,Yes,No,542149
+9/10/2013,Credit card,,Closing/Cancelling account,,,,Wells Fargo & Company,CT,6457,,,Web,9/11/2013,Closed with explanation,Yes,No,522044
+9/2/2013,Mortgage,Conventional adjustable mortgage (ARM),"Application, originator, mortgage broker",,,,Morgan Stanley,FL,33952,,,Web,9/5/2013,Closed with monetary relief,Yes,No,512577
+9/2/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,CO,80465,,,Web,9/3/2013,Closed with explanation,Yes,No,512579
+9/2/2013,Credit reporting,,Incorrect information on credit report,Account terms,,,"TransUnion Intermediate Holdings, Inc.",TX,78023,,,Web,9/2/2013,Closed with explanation,Yes,No,512581
+9/2/2013,Mortgage,Conventional adjustable mortgage (ARM),"Application, originator, mortgage broker",,,,Bank of America,TN,38134,,,Web,9/11/2013,Closed with explanation,Yes,No,511978
+9/2/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,Sallie Mae,MO,64068,,,Web,9/3/2013,Closed with non-monetary relief,Yes,Yes,512584
+9/17/2013,Credit card,,Rewards,,,,HSBC North America Holdings Inc.,NC,28078,,,Fax,9/18/2013,Closed with monetary relief,Yes,No,530203
+9/17/2013,Credit card,,Unsolicited issuance of credit card,,,,JPMorgan Chase & Co.,FL,32771,Older American,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,531127
+9/25/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,New York Community Bank,,,"Older American, Servicemember",,Phone,9/25/2013,Closed with explanation,Yes,No,541527
+9/10/2013,Debt collection,I do not know,False statements or representation,Attempted to collect wrong amount,,,Resurgent Capital Services L.P.,MI,48320,,,Web,9/14/2013,Closed with explanation,Yes,No,520849
+9/2/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan modification,collection,foreclosure",,,,Ocwen,IL,60540,,,Web,9/17/2013,Closed with explanation,Yes,Yes,511812
+9/2/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Bank of America,FL,34653,,,Web,9/3/2013,Closed with explanation,Yes,No,512597
+9/17/2013,Credit reporting,,Incorrect information on credit report,Account terms,,,Amex,TX,75034,,,Web,9/18/2013,Closed with non-monetary relief,Yes,No,531129
+9/25/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,"TransUnion Intermediate Holdings, Inc.",PA,19401,,,Postal mail,10/9/2013,Closed with explanation,Yes,No,541511
+9/10/2013,Mortgage,FHA mortgage,"Loan modification,collection,foreclosure",,,,JPMorgan Chase & Co.,FL,33190,,,Web,9/11/2013,Closed with explanation,Yes,No,522059
+9/10/2013,Bank account or service,Checking account,Deposits and withdrawals,,,,Wells Fargo & Company,TX,78332,,,Web,9/11/2013,Closed with explanation,Yes,Yes,522060
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,"Portfolio Recovery Associates, Inc.",GA,30213,,,Referral,9/11/2013,Closed with non-monetary relief,Yes,No,521994
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,OH,43223,,,Referral,9/11/2013,Closed with explanation,Yes,No,522405
+9/2/2013,Credit card,,Billing disputes,,,,Citibank,FL,33140,,,Web,9/2/2013,Closed with explanation,Yes,Yes,514877
+9/2/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt was paid,,,"EOS Holdings, Inc.",VA,20155,Servicemember,,Web,9/2/2013,Closed with non-monetary relief,Yes,No,511817
+9/2/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,Wells Fargo & Company,CA,94925,,,Web,9/3/2013,Closed with explanation,Yes,Yes,512598
+9/2/2013,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,JPMorgan Chase & Co.,FL,33025,,,Web,9/9/2013,Closed with explanation,Yes,No,512599
+9/25/2013,Mortgage,Conventional adjustable mortgage (ARM),"Loan servicing, payments, escrow account",,,,Nationstar Mortgage,NY,14464,,,Web,9/25/2013,Closed with explanation,Yes,No,541532
+9/10/2013,Debt collection,Credit card,Taking/threatening an illegal action,Threatened to sue on too old debt,,,"Portfolio Recovery Associates, Inc.",CA,93675,,,Web,9/14/2013,Closed with non-monetary relief,Yes,Yes,522029
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Specialized Loan Servicing LLC,NY,11419,,,Referral,9/11/2013,Closed with explanation,Yes,No,522340
+9/17/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,Nationstar Mortgage,AZ,85706,,,Web,9/18/2013,Closed with explanation,Yes,No,531138
+9/25/2013,Money transfers,International money transfer,Other transaction issues,,,,U.S. Bancorp,IL,62640,,,Referral,9/25/2013,Closed with explanation,Yes,No,541541
+9/2/2013,Credit reporting,,Incorrect information on credit report,Account terms,,,Equifax,TX,78023,,,Web,9/2/2013,Closed with non-monetary relief,Yes,No,512582
+9/2/2013,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,,,Santander Consumer USA Holdings Inc,FL,34207,,,Web,9/3/2013,Closed with explanation,Yes,No,511708
+9/2/2013,Credit reporting,,Incorrect information on credit report,Personal information,,,"TransUnion Intermediate Holdings, Inc.",GA,30019,,,Web,9/3/2013,Closed with explanation,Yes,Yes,512600
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,BB&T Financial,GA,31064,,,Referral,9/11/2013,Closed with explanation,Yes,No,522395
+9/10/2013,Mortgage,Other mortgage,"Loan modification,collection,foreclosure",,,,Bank of America,AZ,86442,,,Postal mail,9/11/2013,Closed with explanation,Yes,No,520968
+9/17/2013,Bank account or service,Other bank product/service,Deposits and withdrawals,,,,Bank of America,CA,92025,,,Phone,9/18/2013,Closed with monetary relief,Yes,No,531143
+9/17/2013,Credit reporting,,Incorrect information on credit report,Public record,,,Credit Card Receivables Fund Incorporated,NY,11428,,,Web,9/18/2013,Closed,Yes,No,531144
+9/2/2013,Debt collection,Non-federal student loan,Communication tactics,Frequent or repeated calls,,,Discover,CA,95827,,,Web,9/2/2013,Closed with explanation,Yes,No,512602
+9/2/2013,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,Wells Fargo & Company,GA,30319,,,Web,9/3/2013,Closed with explanation,Yes,Yes,512604
+9/2/2013,Credit card,,Billing disputes,,,,Synchrony Financial,WA,99207,,,Web,9/2/2013,Closed with explanation,Yes,No,512605
+9/10/2013,Bank account or service,Checking account,Problems caused by my funds being low,,,,Regions Financial Corporation,FL,32822,,,Web,9/11/2013,Closed with monetary relief,Yes,No,522067
+9/10/2013,Mortgage,Other mortgage,"Loan servicing, payments, escrow account",,,,Bank of America,WA,98226,,,Referral,9/11/2013,Closed with explanation,Yes,No,521299
+9/2/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt is not mine,,,"Afni, Inc.",MT,59860,"Older American, Servicemember",,Web,9/3/2013,Closed with explanation,Yes,No,512606
+9/17/2013,Debt collection,Medical,Cont'd attempts collect debt not owed,Debt was paid,,,Financial Management Solutions,MD,20782,,,Web,9/17/2013,Closed with explanation,Yes,No,531879
+9/17/2013,Credit card,,Late fee,,,,Wells Fargo & Company,CA,94586,Older American,,Phone,9/18/2013,Closed with explanation,Yes,No,531148
+9/17/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Disclosure verification of debt,Not given enough info to verify debt,,,"Mercantile Adjustment Bureau, LLC",NY,11435,,,Web,10/11/2013,Closed with explanation,Yes,No,531694
+9/25/2013,Credit card,,Transaction issue,,,,Amex,MI,48383,,,Web,9/25/2013,Closed with explanation,Yes,No,541547
+9/25/2013,Student loan,Non-federal student loan,Repaying your loan,Repaying your loan,,,"Navient Solutions, Inc.",WA,98104,,,Web,9/25/2013,Closed with non-monetary relief,Yes,No,541548
+9/25/2013,Credit reporting,,Incorrect information on credit report,Information is not mine,,,Equifax,MS,39180,,,Web,9/25/2013,Closed with explanation,Yes,No,541549
+9/10/2013,Credit reporting,,Improper use of my credit report,Report improperly shared by CRC,,,Experian,MO,63090,,,Web,9/14/2013,Closed with explanation,Yes,Yes,522069
+9/10/2013,Mortgage,Conventional fixed mortgage,"Loan servicing, payments, escrow account",,,,Ditech Financial LLC,TX,76244,,,Referral,9/11/2013,Closed with explanation,Yes,Yes,521995
+9/10/2013,Mortgage,Other mortgage,Credit decision / Underwriting,,,,Wells Fargo & Company,TN,38018,,,Referral,9/11/2013,Closed with non-monetary relief,Yes,No,522495
+9/17/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,The Huntington National Bank,MI,49507,,,Referral,9/18/2013,Closed with explanation,Yes,No,531151
+9/25/2013,Debt collection,"Other (i.e. phone, health club, etc.)",Cont'd attempts collect debt not owed,Debt resulted from identity theft,,,"FAIR COLLECTIONS & OUTSOURCING, INC.",AR,72205,,,Web,9/25/2013,Closed with explanation,Yes,No,541555
+9/2/2013,Consumer Loan,Vehicle loan,Taking out the loan or lease,,,,GM Financial,TX,75657,,,Web,9/6/2013,Closed with explanation,Yes,No,512615
+9/2/2013,Mortgage,Conventional fixed mortgage,"Loan modification,collection,foreclosure",,,,EverBank,NC,28173,Servicemember,,Web,9/3/2013,Closed with explanation,Yes,No,512610
+9/10/2013,Mortgage,Other mortgage,Other,,,,"Select Portfolio Servicing, Inc",HI,96706,,,Referral,9/11/2013,Closed with explanation,Yes,No,521303
+9/25/2013,Consumer Loan,Vehicle loan,Managing the loan or lease,,,,Santander Consumer USA Holdings Inc,MD,21703,,,Web,9/25/2013,Closed with explanation,Yes,No,541488
+9/25/2013,Credit card,,Advertising and marketing,,,,Wells Fargo & Company,CO,81419,,,Web,9/25/2013,Closed with explanation,Yes,Yes,541559
+9/2/2013,Mortgage,Home equity loan or line of credit,"Loan modification,collection,foreclosure",,,,Ocwen,FL,34952,,,Web,9/3/2013,Closed with explanation,Yes,No,512616
+9/2/2013,Bank account or service,Other bank product/service,"Account opening, closing, or management",,,,Charles Schwab Bank,CA,95757,Older American,,Web,9/6/2013,Closed with explanation,Yes,Yes,512617
+9/2/2013,Credit card,,Rewards,,,,Citibank,NV,89052,,,Web,9/2/2013,Closed with non-monetary relief,Yes,No,512618
+9/2/2013,Consumer Loan,Vehicle loan,Problems when you are unable to pay,,,,BB&T Financial,NC,27127,,,Web,9/3/2013,Closed with explanation,Yes,Yes,511704
+9/25/2013,Credit reporting,,Credit reporting company's investigation,No notice of investigation status/result,,,Experian,NY,11365,Older American,,Web,9/27/2013,Closed with explanation,Yes,No,541505
+9/25/2013,Debt collection,Non-federal student loan,Cont'd attempts collect debt not owed,Debt is not mine,,,"Expert Global Solutions, Inc.",PA,16423,,,Phone,9/25/2013,Closed with explanation,Yes,No,541564
+9/10/2013,Bank account or service,Checking account,"Account opening, closing, or management",,,,U.S. Bancorp,OH,44310,,,Web,9/11/2013,Closed with monetary relief,Yes,No,522085
+9/10/2013,Bank account or service,Checking account,Problems caused by my funds being low,,,,TD Bank US Holding Company,NJ,7508,,,Referral,9/11/2013,Closed with explanation,Yes,Yes,521307
+9/10/2013,Mortgage,Conventional fixed mortgage,Settlement process and costs,,,,Wells Fargo & Company,VA,22152,Servicemember,,Web,9/10/2013,Closed with explanation,Yes,No,521324
+9/10/2013,Credit card,,Closing/Cancelling account,,,,Bank of America,CO,81328,,,Referral,9/11/2013,Closed with explanation,Yes,No,522423
+9/2/2013,Mortgage,FHA mortgage,"Application, originator, mortgage broker",,,,Bank of America,FL,33635,,,Web,9/3/2013,Closed with explanation,Yes,No,512041
+9/2/2013,Consumer Loan,Vehicle loan,Taking out the loan or lease,,,,Ally Financial Inc.,TX,77028,,,Web,9/6/2013,Closed with explanation,Yes,Yes,512619
+9/2/2013,Credit card,,Identity theft / Fraud / Embezzlement,,,,Barclays PLC,MI,48377,,,Web,9/3/2013,Closed with monetary relief,Yes,No,511967
